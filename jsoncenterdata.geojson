@@ -1,0 +1,5361 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.611705,30.439028 ]
+    },
+    "properties": {
+    "A":976846,
+    "B":"1st Step Early Learning Center",
+    "C":"401 F M 685 Ste 104 Pflugerville, Tx  78660",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.781067,30.452272 ]
+    },
+    "properties": {
+    "A":1480666,
+    "B":"1st Step Early Learning Center",
+    "C":"9112 Anderson Mill Rd # B-400 Austin, Tx  78729",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.870347,29.997695 ]
+    },
+    "properties": {
+    "A":1657492,
+    "B":"A Childs Exploratorium",
+    "C":"1109 N Hwy  81 Kyle, Tx  78640",
+    "D":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.274012,30.585762 ]
+    },
+    "properties": {
+    "A":1693763,
+    "B":"ABC Academy Marble Falls",
+    "C":"1512 N Us Highway 281 Marble Falls, Tx  78654",
+    "D":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.491091,30.35119 ]
+    },
+    "properties": {
+    "A":861370,
+    "B":"ABCs and 123s Infant and Child Care Center LP",
+    "C":"13419 Hwy 290 E Bldg 5 Manor, Tx  78653",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.607201,30.448398 ]
+    },
+    "properties": {
+    "A":1672633,
+    "B":"Abacus Childrens Academy",
+    "C":"1226 Fm 685 Pflugerville, Tx  78660",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36044,30.308019 ]
+    },
+    "properties": {
+    "A":1688733,
+    "B":"Achieve Learning Child Development Center",
+    "C":"509 M L K Dr Elgin, Tx  78621",
+    "D":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.423997,30.572567 ]
+    },
+    "properties": {
+    "A":1338346,
+    "B":"Alicia Jonse",
+    "C":"1210 W 7Th St Taylor, Tx  76574",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.664452,30.746509 ]
+    },
+    "properties": {
+    "A":1056087,
+    "B":"Alphabet Alley Learning Center",
+    "C":"1101 E Brown St Llano, Tx  78643",
+    "D":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.626635,30.47655 ]
+    },
+    "properties": {
+    "A":1683993,
+    "B":"Angels And Saints Child Care Home",
+    "C":"18713 Star Gazer Way Pflugerville, Tx  78660",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.792471,30.184753 ]
+    },
+    "properties": {
+    "A":1676882,
+    "B":"Angels Care and Learning Center",
+    "C":"7806 S 1St St Austin, Tx  78745",
+    "D":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.744421,31.08144 ]
+    },
+    "properties": {
+    "A":1666034,
+    "B":"Annettes Great Adventures Learning Center",
+    "C":"208 E Elms Rd Ste A Killeen, Tx  76542",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.676091,30.715188 ]
+    },
+    "properties": {
+    "A":1534244,
+    "B":"Annunciation Infant Development Center",
+    "C":"3610 Shell Rd Georgetown, Tx  78628",
+    "D":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.657816,30.466352 ]
+    },
+    "properties": {
+    "A":1522418,
+    "B":"Ants To Elephants Daycare",
+    "C":"16708 Picadilly Ct Ste 105 Round Rock, Tx  78664",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.561606,30.475467 ]
+    },
+    "properties": {
+    "A":1028987,
+    "B":"Ashford Montessori",
+    "C":"20301 Jackies Ranch Rd Pflugerville, Tx  78660",
+    "D":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.836991,30.494441 ]
+    },
+    "properties": {
+    "A":1632187,
+    "B":"Auntie Ems Home Childcare",
+    "C":"1402 Dove Hill Dr Cedar Park, Tx  78613",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.776097,30.205991 ]
+    },
+    "properties": {
+    "A":838499,
+    "B":"Austin South Christian Academy",
+    "C":"200B W Stassney Ln Austin, Tx  78745",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.499961,30.084169 ]
+    },
+    "properties": {
+    "A":1512041,
+    "B":"BISD Community Service STARS Cedar Creek Elementar",
+    "C":"5582 Fm 535 Cedar Creek, Tx  78612",
+    "D":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.310167,30.10708 ]
+    },
+    "properties": {
+    "A":1507631,
+    "B":"BISD Community Services - STARS Emile Elementary S",
+    "C":"601 Martin Luther King Dr Bastrop, Tx  78602",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.314711,30.113041 ]
+    },
+    "properties": {
+    "A":838904,
+    "B":"BISD Community Services - STARS Mina Elementary Sc",
+    "C":"1203 Hill St Bastrop, Tx  78602",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.451257,29.958806 ]
+    },
+    "properties": {
+    "A":1507635,
+    "B":"BISD Community Services - STARS Red Rock Elementar",
+    "C":"2401 Fm 20 Red Rock, Tx  78662",
+    "D":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.430071,30.132387 ]
+    },
+    "properties": {
+    "A":1507575,
+    "B":"BISD Community Services STARS Bluebonnet Elementar",
+    "C":"416 Fm 1209 Bastrop, Tx  78602",
+    "D":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.280214,30.177341 ]
+    },
+    "properties": {
+    "A":1507629,
+    "B":"BISD Community Services STARS Lost Pines Elementar",
+    "C":"151 Tiger Woods Dr Bastrop, Tx  78602",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.499961,30.084169 ]
+    },
+    "properties": {
+    "A":820191,
+    "B":"BISD District Day Care Cedar Creek Elem.",
+    "C":"5582 F M 535 Cedar Creek, Tx  78612",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.310167,30.10708 ]
+    },
+    "properties": {
+    "A":840553,
+    "B":"BISD District Day Care Emile",
+    "C":"601 Martin Luther King Dr Bastrop, Tx  78602",
+    "D":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.896167,29.947017 ]
+    },
+    "properties": {
+    "A":1700173,
+    "B":"Blanco Vista EAC YMCA",
+    "C":"2951 Blanco Vista Blvd San Marcos, Tx  78666",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.752466,30.157401 ]
+    },
+    "properties": {
+    "A":1700166,
+    "B":"Blazier EAC YMCA",
+    "C":"8601 Vertex Blvd Austin, Tx  78744",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.646061,30.494992 ]
+    },
+    "properties": {
+    "A":902484,
+    "B":"Blue Diamond Montessori Center",
+    "C":"2050 Double Creek Dr Ste 101 Round Rock, Tx  78664",
+    "D":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.823713,30.459399 ]
+    },
+    "properties": {
+    "A":814282,
+    "B":"Bluebonnet School of Cedar Park",
+    "C":"3420 El Salido Pkwy Cedar Park, Tx  78613",
+    "D":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.706259,30.367905 ]
+    },
+    "properties": {
+    "A":1515161,
+    "B":"Bright Beginnings",
+    "C":"9414 Parkfield Dr Austin, Tx  78758",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.717516,30.389654 ]
+    },
+    "properties": {
+    "A":550239,
+    "B":"Bright Horizons Family Center",
+    "C":"2411 W Braker Ln Austin, Tx  78758",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.830935,30.446694 ]
+    },
+    "properties": {
+    "A":1578325,
+    "B":"Bright Kids Child Development Center",
+    "C":"10713 N Fm 620 Ste 101 Austin, Tx  78726",
+    "D":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.791583,30.528334 ]
+    },
+    "properties": {
+    "A":1150286,
+    "B":"Bright Star Academy Schools",
+    "C":"801 N Vista Ridge Blvd Cedar Park, Tx  78613",
+    "D":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.818301,30.502454 ]
+    },
+    "properties": {
+    "A":1564976,
+    "B":"Bright Start Learning Center",
+    "C":"751 S Bell Blvd Cedar Park, Tx  78613",
+    "D":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.875598,30.092916 ]
+    },
+    "properties": {
+    "A":1651193,
+    "B":"Brookeside Learning Center LLC.",
+    "C":"100 Hy Rd Buda, Tx  78610",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.820761,30.094547 ]
+    },
+    "properties": {
+    "A":1693911,
+    "B":"Buda Early Learning Center",
+    "C":"1060 Old San Antonio Rd Buda, Tx  78610",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.820761,30.094547 ]
+    },
+    "properties": {
+    "A":1700169,
+    "B":"Buda Elementary EAC YMCA",
+    "C":"1060 Old San Antonio Rd Buda, Tx  78610",
+    "D":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.403698,30.111296 ]
+    },
+    "properties": {
+    "A":1627657,
+    "B":"Busy Bee Academy",
+    "C":"1116 Highway 71 W Bastrop, Tx  78602",
+    "D":51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.314806,30.111047 ]
+    },
+    "properties": {
+    "A":862842,
+    "B":"Busy Bee Learning Center",
+    "C":"1003 Hill St Bastrop, Tx  78602",
+    "D":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.636589,30.464517 ]
+    },
+    "properties": {
+    "A":1700721,
+    "B":"Butterfly Schoolhouse",
+    "C":"816 Bushmills Ct Pflugerville, Tx  78660",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.809488,30.494793 ]
+    },
+    "properties": {
+    "A":150246006,
+    "B":"CAMP TWIN LAKES-YMCA",
+    "C":"204 East Little Elm Trail Cedar Park, Tx  78613",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.827855,30.006138 ]
+    },
+    "properties": {
+    "A":1691955,
+    "B":"CEI Preschool Spanish Immersion School",
+    "C":"2381 Bebee Rd Kyle, Tx  78640",
+    "D":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.71865,30.421043 ]
+    },
+    "properties": {
+    "A":549277,
+    "B":"Cadence Academy",
+    "C":"12223 Cassady Dr Austin, Tx  78727",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.761727,30.005116 ]
+    },
+    "properties": {
+    "A":1700363,
+    "B":"Camino Real EAC YMCA",
+    "C":"170 Las Brisas Blvd Niederwald, Tx  78640",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.687622,30.526132 ]
+    },
+    "properties": {
+    "A":150250299,
+    "B":"Camp Round Rock",
+    "C":"1812 N. Mays Round Rock, Tx  78664",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.638377,30.398405 ]
+    },
+    "properties": {
+    "A":840133,
+    "B":"Capital City Kids Daycare",
+    "C":"13107 Dessau Rd Austin, Tx  78754",
+    "D":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.857237,29.999445 ]
+    },
+    "properties": {
+    "A":1679367,
+    "B":"Carmen Abraham",
+    "C":"551 Keystone Loop Kyle, Tx  78640",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.896467,30.097115 ]
+    },
+    "properties": {
+    "A":1580385,
+    "B":"Carpenter Hill Early Learning Center",
+    "C":"4410 Ranch Rd 967 Buda, Tx  78610",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.896467,30.097115 ]
+    },
+    "properties": {
+    "A":1193127,
+    "B":"Carpenter Hill YMCA",
+    "C":"4410 Ranch Rd 967 Buda, Tx  78610",
+    "D":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.883218,29.991465 ]
+    },
+    "properties": {
+    "A":1668406,
+    "B":"Caterpillar Clubhouse Child Development Center",
+    "C":"301 Rebel Rd Kyle, Tx  78640",
+    "D":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.822269,30.281275 ]
+    },
+    "properties": {
+    "A":559508,
+    "B":"Central Child Development Center",
+    "C":"1201 S Capital Of Texas Hwy West Lake Hills, Tx  78746",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.745185,30.298414 ]
+    },
+    "properties": {
+    "A":1619697,
+    "B":"Child Craft School",
+    "C":"800 W 30Th St Austin, Tx  78705",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.671834,29.871686 ]
+    },
+    "properties": {
+    "A":1636645,
+    "B":"Childrens Center Of Lockhart",
+    "C":"1030 S Guadalupe St Lockhart, Tx  78644",
+    "D":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.613909,30.344266 ]
+    },
+    "properties": {
+    "A":525720,
+    "B":"Childrens Courtyard",
+    "C":"11012 Harris Branch Pkwy Austin, Tx  78754",
+    "D":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.707005,30.414996 ]
+    },
+    "properties": {
+    "A":551505,
+    "B":"Childrens Courtyard",
+    "C":"12336 N Mopac Expy Austin, Tx  78758",
+    "D":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.705977,30.398114 ]
+    },
+    "properties": {
+    "A":811682,
+    "B":"Childrens Courtyard",
+    "C":"11718 Metric Blvd Bldg C Austin, Tx  78758",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.861883,30.228853 ]
+    },
+    "properties": {
+    "A":819473,
+    "B":"Childrens Courtyard",
+    "C":"5914 W William Cannon Dr Austin, Tx  78749",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.825134,30.480536 ]
+    },
+    "properties": {
+    "A":834332,
+    "B":"Childrens Courtyard - Lakeline BLVD",
+    "C":"2001 S Lakeline Blvd Cedar Park, Tx  78613",
+    "D":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.612016,30.496571 ]
+    },
+    "properties": {
+    "A":554964,
+    "B":"Childrens Courtyard 4",
+    "C":"3801 Gattis School Rd Round Rock, Tx  78664",
+    "D":51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.655022,30.482328 ]
+    },
+    "properties": {
+    "A":557335,
+    "B":"Childrens Courtyard 5",
+    "C":"2960 Jazz St Round Rock, Tx  78664",
+    "D":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.852009,30.5475 ]
+    },
+    "properties": {
+    "A":844259,
+    "B":"Childrens Garden",
+    "C":"2100 S Bagdad Rd Leander, Tx  78641",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.845081,30.528588 ]
+    },
+    "properties": {
+    "A":1521046,
+    "B":"Childrens Lighthouse",
+    "C":"1801 Bagdad Rd Cedar Park, Tx  78613",
+    "D":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.61694,30.54708 ]
+    },
+    "properties": {
+    "A":1652455,
+    "B":"Childrens Lighthouse Round Rock",
+    "C":"4350 E Old Settlers Blvd Round Rock, Tx  78665",
+    "D":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.810508,30.174388 ]
+    },
+    "properties": {
+    "A":234172,
+    "B":"Chisholm La Petite Academy",
+    "C":"9315 Chisholm Ln Austin, Tx  78748",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.764898,30.432492 ]
+    },
+    "properties": {
+    "A":1027406,
+    "B":"Club Z INC",
+    "C":"12741 Research Blvd Ste 200 Austin, Tx  78759",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.794911,30.186751 ]
+    },
+    "properties": {
+    "A":1662875,
+    "B":"Club Z INC",
+    "C":"7612 Cooper Ln Austin, Tx  78745",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.768486,30.554908 ]
+    },
+    "properties": {
+    "A":1697710,
+    "B":"Colibri Bilingual Child Academy",
+    "C":"3500 County Road 175 Leander, Tx  78641",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.964009,29.583456 ]
+    },
+    "properties": {
+    "A":188597,
+    "B":"Community Child Development Center",
+    "C":"1515 Engbrock Seguin, Tx  78155",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.685971,30.519524 ]
+    },
+    "properties": {
+    "A":1696120,
+    "B":"Cornerstone Connection",
+    "C":"1201 Northwest Dr Round Rock, Tx  78664",
+    "D":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.673191,29.816813 ]
+    },
+    "properties": {
+    "A":1579836,
+    "B":"Country Breeze Learning Center",
+    "C":"7136 S Hwy 183 Lockhart, Tx  78644",
+    "D":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.86565,30.229929 ]
+    },
+    "properties": {
+    "A":501647,
+    "B":"Country Home Learning Center 7 LTD",
+    "C":"6900 Escarpment Blvd Austin, Tx  78749",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.781312,30.439942 ]
+    },
+    "properties": {
+    "A":520322,
+    "B":"Country Home Learning Center 8",
+    "C":"13120 N Hwy 183 Austin, Tx  78750",
+    "D":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.903471,29.677037 ]
+    },
+    "properties": {
+    "A":920188,
+    "B":"Country Tykes INC",
+    "C":"401 Baumgarten St Schulenburg, Tx  78956",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.898049,30.66722 ]
+    },
+    "properties": {
+    "A":1658005,
+    "B":"Courage Cheer and Dance United",
+    "C":"134 Jonathan Dr Liberty Hill, Tx  78642",
+    "D":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.543019,30.54379 ]
+    },
+    "properties": {
+    "A":1083626,
+    "B":"Creative Kids Preschool",
+    "C":"208 Highway 79 Hutto, Tx  78634",
+    "D":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.630923,30.445078 ]
+    },
+    "properties": {
+    "A":1508669,
+    "B":"Creative Kids Preschool IV",
+    "C":"1204 Pecan St W Pflugerville, Tx  78660",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.499674,30.350862 ]
+    },
+    "properties": {
+    "A":1478766,
+    "B":"Creative Learning Center",
+    "C":"11401 Us Highway 290 E Ste B Manor, Tx  78653",
+    "D":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.570771,30.518962 ]
+    },
+    "properties": {
+    "A":1679899,
+    "B":"Creative Learning Center",
+    "C":"1527 Chris Kelley Blvd Hutto, Tx  78634",
+    "D":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.806215,30.210107 ]
+    },
+    "properties": {
+    "A":1699997,
+    "B":"Cunningham EAC YMCA",
+    "C":"2200 Berkeley Ave Austin, Tx  78745",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.67536,30.545734 ]
+    },
+    "properties": {
+    "A":1534236,
+    "B":"Daily Bread Christian Learning Center",
+    "C":"3200 Sunrise Rd Round Rock, Tx  78665",
+    "D":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.059521,30.745647 ]
+    },
+    "properties": {
+    "A":828290,
+    "B":"Dars Tiny Tots Daycare",
+    "C":"460 W State Highway 29 Bertram, Tx  78605",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.763842,30.235162 ]
+    },
+    "properties": {
+    "A":1699900,
+    "B":"Dawson EAC YMCA",
+    "C":"3001 S 1St St Austin, Tx  78704",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.613395,30.17599 ]
+    },
+    "properties": {
+    "A":1048067,
+    "B":"Del Valle Wee Cardinal Child Development Center",
+    "C":"5301 Ross Rd Ste G Del Valle, Tx  78617",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.851665,29.921416 ]
+    },
+    "properties": {
+    "A":896993,
+    "B":"Dig It Preschool and Childcare",
+    "C":"2217 State Highway 159 La Grange, Tx  78945",
+    "D":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.644533,30.580362 ]
+    },
+    "properties": {
+    "A":1690047,
+    "B":"Discover New Horizons Montessori",
+    "C":"5049 Veranda Trce Round Rock, Tx  78665",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.668179,30.662357 ]
+    },
+    "properties": {
+    "A":540978,
+    "B":"Eagle Wings Child Development Center",
+    "C":"2200 N Austin Ave Georgetown, Tx  78626",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37793,30.352223 ]
+    },
+    "properties": {
+    "A":840589,
+    "B":"Elgin ISD Child Development Center",
+    "C":"1002 N Avenue C Elgin, Tx  78621",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.873269,30.089238 ]
+    },
+    "properties": {
+    "A":1700163,
+    "B":"Elm Grove EAC YMCA",
+    "C":"801 Fm 1626 Buda, Tx  78610",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.604755,30.497953 ]
+    },
+    "properties": {
+    "A":881992,
+    "B":"Emerson Academy",
+    "C":"1 Valley View Dr Round Rock, Tx  78664",
+    "D":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.67889,30.740863 ]
+    },
+    "properties": {
+    "A":1700200,
+    "B":"Everlasting Love Learning Center",
+    "C":"1705 Wright St Llano, Tx  78643",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.155129,30.007182 ]
+    },
+    "properties": {
+    "A":900008,
+    "B":"FBC Sonshine School",
+    "C":"304 Hudgins St Smithville, Tx  78957",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.43905,30.584892 ]
+    },
+    "properties": {
+    "A":1670758,
+    "B":"First Academy",
+    "C":"2500 Mallard Lane Taylor, Tx  76574",
+    "D":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.276737,30.557149 ]
+    },
+    "properties": {
+    "A":1596636,
+    "B":"First Baptist Christian School",
+    "C":"901 La Ventana Marble Falls, Tx  78654",
+    "D":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.869734,30.085397 ]
+    },
+    "properties": {
+    "A":1356926,
+    "B":"First Class Child Development Center 2",
+    "C":"1215 Old Black Colony Rd Buda, Tx  78610",
+    "D":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.789024,30.15462 ]
+    },
+    "properties": {
+    "A":1576420,
+    "B":"First Class Child Development Center 3",
+    "C":"1901 National Park Blvd Austin, Tx  78747",
+    "D":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.758451,30.449986 ]
+    },
+    "properties": {
+    "A":407701,
+    "B":"First Start Day Care",
+    "C":"13116 Tamayo Dr Austin, Tx  78729",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.005505,29.823031 ]
+    },
+    "properties": {
+    "A":515990,
+    "B":"First Step INC",
+    "C":"4003 Hunter Rd San Marcos, Tx  78666",
+    "D":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.942516,29.883743 ]
+    },
+    "properties": {
+    "A":503561,
+    "B":"First United Methodist Day School and Afterschool",
+    "C":"129 W Hutchison St San Marcos, Tx  78666",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.269532,30.595846 ]
+    },
+    "properties": {
+    "A":519956,
+    "B":"Flip N Swim",
+    "C":"2506 Commerce St Marble Falls, Tx  78654",
+    "D":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.925944,30.665044 ]
+    },
+    "properties": {
+    "A":1163246,
+    "B":"Footsteps Mothers Day Out",
+    "C":"3600 Rr 1869 Liberty Hill, Tx  78642",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.860421,30.002548 ]
+    },
+    "properties": {
+    "A":1700365,
+    "B":"Fuentes EAC YMCA",
+    "C":"901 Philomena Dr Kyle, Tx  78640",
+    "D":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.687111,30.659392 ]
+    },
+    "properties": {
+    "A":1703345,
+    "B":"Garcias Jardin De Ninos",
+    "C":"110 Golden Oaks Dr Georgetown, Tx  78628",
+    "D":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.699731,30.346305 ]
+    },
+    "properties": {
+    "A":408091,
+    "B":"Generations Child Development Centers 1",
+    "C":"8203 Sam Rayburn Dr Austin, Tx  78753",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.68975,30.514539 ]
+    },
+    "properties": {
+    "A":1673082,
+    "B":"Global Kids Preschool",
+    "C":"4 Chisholm Trl Round Rock, Tx  78681",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.84258,30.475843 ]
+    },
+    "properties": {
+    "A":877325,
+    "B":"Goddard School",
+    "C":"1905 El Salido Pkwy Cedar Park, Tx  78613",
+    "D":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.840344,30.558118 ]
+    },
+    "properties": {
+    "A":1612316,
+    "B":"Goddard School",
+    "C":"1730 Union St Leander, Tx  78641",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.658614,30.418345 ]
+    },
+    "properties": {
+    "A":1600878,
+    "B":"Gods Kingdom Daycare 2",
+    "C":"104 W Howard Ln Austin, Tx  78753",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.148576,30.005031 ]
+    },
+    "properties": {
+    "A":833919,
+    "B":"Grace Lutheran Learning Center",
+    "C":"401 Wilkes St Smithville, Tx  78957",
+    "D":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.68402,29.88403 ]
+    },
+    "properties": {
+    "A":64741,
+    "B":"Grace Lutheran Preschool KNS",
+    "C":"828 Fir Ln Lockhart, Tx  78644",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.780441,30.210347 ]
+    },
+    "properties": {
+    "A":1658257,
+    "B":"Growing Imaginations Learning Center LLC",
+    "C":"5410 S 1St St Austin, Tx  78745",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.669611,30.530213 ]
+    },
+    "properties": {
+    "A":1532993,
+    "B":"Guiding Steps Montessori",
+    "C":"1000 E Bowman Dr Round Rock, Tx  78664",
+    "D":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.934022,29.836246 ]
+    },
+    "properties": {
+    "A":853900,
+    "B":"Guzman Group Day Care Home",
+    "C":"195 Valero Dr San Marcos, Tx  78666",
+    "D":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.233048,30.747065 ]
+    },
+    "properties": {
+    "A":1178986,
+    "B":"HCF Christian Academy",
+    "C":"200 Houston Clinton Dr Burnet, Tx  78611",
+    "D":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.785362,31.086314 ]
+    },
+    "properties": {
+    "A":1593089,
+    "B":"Handprints Child Care 10 LLC dba Handprints Academ",
+    "C":"3401 W Stan Schlueter Loop Killeen, Tx  76549",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.132506,29.695077 ]
+    },
+    "properties": {
+    "A":252999,
+    "B":"Hansel and Gretel Child Development",
+    "C":"984 W San Antonio St New Braunfels, Tx  78130",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.879113,30.234599 ]
+    },
+    "properties": {
+    "A":1668465,
+    "B":"Happy Bunnies",
+    "C":"7212 Oak Meadow Dr Austin, Tx  78736",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.805899,30.205937 ]
+    },
+    "properties": {
+    "A":1384066,
+    "B":"Happy Hearts Bilingual Learning Center",
+    "C":"6615 Manchaca Rd Austin, Tx  78745",
+    "D":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.812408,30.174268 ]
+    },
+    "properties": {
+    "A":1706523,
+    "B":"Happy Hearts Bilingual Learning Center",
+    "C":"1112 W Slaughter Ln Austin, Tx  78748",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.680394,30.305312 ]
+    },
+    "properties": {
+    "A":1203226,
+    "B":"Happy Kids Day Care",
+    "C":"5709 Manor Rd Austin, Tx  78723",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.927716,30.675069 ]
+    },
+    "properties": {
+    "A":881245,
+    "B":"Happy Trails Learning Center",
+    "C":"14865 W State Highway 29 Liberty Hill, Tx  78642",
+    "D":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.847851,30.500564 ]
+    },
+    "properties": {
+    "A":1199447,
+    "B":"Hatch House School",
+    "C":"125 S Lakeline Blvd Cedar Park, Tx  78613",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.739605,30.548974 ]
+    },
+    "properties": {
+    "A":1533576,
+    "B":"Hatch House School Sendero Campus",
+    "C":"3087 Fm 1431 Round Rock, Tx  78681",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.827417,29.943737 ]
+    },
+    "properties": {
+    "A":1700370,
+    "B":"Hemphill EAC YMCA",
+    "C":"3995 E Fm 150 Kyle, Tx  78640",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.623018,30.555577 ]
+    },
+    "properties": {
+    "A":1355088,
+    "B":"Herrington Elementary YMCA",
+    "C":"2850 Paloma Lake Blvd Round Rock, Tx  78665",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.319051,30.112908 ]
+    },
+    "properties": {
+    "A":111750,
+    "B":"Hideout Christian Learning Center",
+    "C":"1202 Water St Bastrop, Tx  78602",
+    "D":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.840749,30.528972 ]
+    },
+    "properties": {
+    "A":1538523,
+    "B":"High Hopes Sports / Afterschool",
+    "C":"1800 Clover Ln Cedar Park, Tx  78613",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.845208,30.643793 ]
+    },
+    "properties": {
+    "A":1544107,
+    "B":"Hilltop Childrens Center",
+    "C":"9415 W Highway 29 Liberty Hill, Tx  78642",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.545742,30.544186 ]
+    },
+    "properties": {
+    "A":1551578,
+    "B":"Hippo Learning Station",
+    "C":"104 Taylor St Unit B Hutto, Tx  78634",
+    "D":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.451201,30.12467 ]
+    },
+    "properties": {
+    "A":1649512,
+    "B":"Honeysuckle Schoolhouse",
+    "C":"434 Leisure Ln # Ab Cedar Creek, Tx  78612",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.785407,30.203108 ]
+    },
+    "properties": {
+    "A":1508294,
+    "B":"House of Little Angels LLC",
+    "C":"735 Turtle Creek Blvd Austin, Tx  78745",
+    "D":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.755164,30.197785 ]
+    },
+    "properties": {
+    "A":1700160,
+    "B":"Houston EAC YMCA",
+    "C":"5409 Ponciana Dr Austin, Tx  78744",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.864118,29.9971 ]
+    },
+    "properties": {
+    "A":1700358,
+    "B":"IDEA Kyle EAC YMCA",
+    "C":"640 Philomena Dr Kyle, Tx  78640",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.652817,30.38802 ]
+    },
+    "properties": {
+    "A":1694673,
+    "B":"IDEA Parmer Park YMCA",
+    "C":"1438 East Yager Lane Austin, Tx  78753",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.935839,30.185718 ]
+    },
+    "properties": {
+    "A":200002,
+    "B":"Immanuel Early Childhood Center",
+    "C":"179 E Brenham St Giddings, Tx  78942",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.614092,30.431887 ]
+    },
+    "properties": {
+    "A":210333,
+    "B":"Immanuel Lutheran Day School",
+    "C":"500 Immanuel Rd Pflugerville, Tx  78660",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.889372,30.033397 ]
+    },
+    "properties": {
+    "A":411369,
+    "B":"Jack C Hays High School Child Development Center",
+    "C":"4800 Jack C Hays Tr Hays High Schoo Buda, Tx  78610",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.406789,30.278327 ]
+    },
+    "properties": {
+    "A":1701301,
+    "B":"Johnson City Community Preschool",
+    "C":"502 E Cypress Johnson City, Tx  78636",
+    "D":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.717363,30.420717 ]
+    },
+    "properties": {
+    "A":544457,
+    "B":"Joy of Learning Center Child Development Center",
+    "C":"12300 Amherst Dr Austin, Tx  78727",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.445113,30.719872 ]
+    },
+    "properties": {
+    "A":1650402,
+    "B":"Julies Daycare",
+    "C":"203 W Ash St Granger, Tx  76530",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.68789,30.457533 ]
+    },
+    "properties": {
+    "A":1631149,
+    "B":"KCE Champions LLC Jubilee-Wells Branch K-5",
+    "C":"3711 Shoreline Dr Austin, Tx  78728",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7585,30.204295 ]
+    },
+    "properties": {
+    "A":1699743,
+    "B":"KIPP Austin South CCC EAC YMCA",
+    "C":"5107 S Interstate 35 Austin, Tx  78744",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7585,30.204295 ]
+    },
+    "properties": {
+    "A":1700145,
+    "B":"KIPP Austin South EAC YMCA",
+    "C":"5107 S Interstate 35 Austin, Tx  78744",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.768913,30.419562 ]
+    },
+    "properties": {
+    "A":405994,
+    "B":"Kathy Caraway YMCA",
+    "C":"11104 Oak View Dr Austin, Tx  78759",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.589311,30.551072 ]
+    },
+    "properties": {
+    "A":1695362,
+    "B":"Kerley Elementary YMCA",
+    "C":"800 Haybarn Lane Hutto, Tx  78634",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.85334,30.518599 ]
+    },
+    "properties": {
+    "A":1686559,
+    "B":"Kiddie Academy of Cedar Park West",
+    "C":"1301 N Lakeline Blvd Cedar Park, Tx  78613",
+    "D":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.651597,30.573566 ]
+    },
+    "properties": {
+    "A":1660869,
+    "B":"Kiddie Academy of Round Rock",
+    "C":"5080 N A W Grimes  Blvd Round Rock, Tx  78665",
+    "D":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.684577,30.524078 ]
+    },
+    "properties": {
+    "A":1518027,
+    "B":"Kiddie Kingdom",
+    "C":"112 E Old Bowman Rd Round Rock, Tx  78664",
+    "D":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.227199,30.764649 ]
+    },
+    "properties": {
+    "A":1551682,
+    "B":"Kids Kastle",
+    "C":"702 N Vanderveer St Burnet, Tx  78611",
+    "D":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.668758,30.665388 ]
+    },
+    "properties": {
+    "A":1705522,
+    "B":"Kids Kottage",
+    "C":"2301 Old Airport Rd Georgetown, Tx  78626",
+    "D":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.669519,30.574218 ]
+    },
+    "properties": {
+    "A":1247426,
+    "B":"Kids R Kids",
+    "C":"4341 Teravista Club Dr Round Rock, Tx  78665",
+    "D":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.772486,30.498893 ]
+    },
+    "properties": {
+    "A":1697184,
+    "B":"Kids R Kids 33",
+    "C":"15111 Avery Ranch Blvd Austin, Tx  78717",
+    "D":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.612744,30.507906 ]
+    },
+    "properties": {
+    "A":1176126,
+    "B":"Kids R Kids Of Round Rock",
+    "C":"1455 Red Bud Ln Round Rock, Tx  78664",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.60188,30.803281 ]
+    },
+    "properties": {
+    "A":1707238,
+    "B":"Kids Zone Inc",
+    "C":"104 Copper Ln Jarrell, Tx  76537",
+    "D":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.727288,30.688941 ]
+    },
+    "properties": {
+    "A":1707472,
+    "B":"Kids Zone Learning Center",
+    "C":"4802 Moreland Dr Georgetown, Tx  78633",
+    "D":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.615392,30.81911 ]
+    },
+    "properties": {
+    "A":1707224,
+    "B":"Kids Zone West",
+    "C":"105 Western Sky Trl Jarrell, Tx  76537",
+    "D":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.951693,29.895545 ]
+    },
+    "properties": {
+    "A":240712,
+    "B":"Kids of the Kingdom",
+    "C":"130 W Holland St San Marcos, Tx  78666",
+    "D":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.75869,30.443382 ]
+    },
+    "properties": {
+    "A":1329546,
+    "B":"Kidz R Special 2",
+    "C":"7402 Potters Trl Austin, Tx  78729",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.778189,30.195884 ]
+    },
+    "properties": {
+    "A":853832,
+    "B":"KinderCare Learning Center",
+    "C":"6434 S Congress Ave Austin, Tx  78745",
+    "D":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.689571,30.514585 ]
+    },
+    "properties": {
+    "A":1070406,
+    "B":"Kingdom Heights Christian School",
+    "C":"14 Chisholm Trl Round Rock, Tx  78681",
+    "D":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.437901,30.65762 ]
+    },
+    "properties": {
+    "A":1672554,
+    "B":"Kingsland Learning Center LLC",
+    "C":"1012 Davis St Kingsland, Tx  78639",
+    "D":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.878742,29.991517 ]
+    },
+    "properties": {
+    "A":1700362,
+    "B":"Kyle EAC YMCA",
+    "C":"500 Blanco St Kyle, Tx  78640",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.878742,29.991517 ]
+    },
+    "properties": {
+    "A":550672,
+    "B":"Kyle Elementary Child Care Center",
+    "C":"500 W Blanco St Kyle, Tx  78640",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.845266,30.031203 ]
+    },
+    "properties": {
+    "A":1688602,
+    "B":"Kyles Bright Beginnings",
+    "C":"221 Amberwood N Kyle, Tx  78640",
+    "D":81
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.607324,30.444306 ]
+    },
+    "properties": {
+    "A":1668058,
+    "B":"LIFE Kidz Academy",
+    "C":"1006 Old Austin Hutto Rd Pflugerville, Tx  78660",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.827774,30.493733 ]
+    },
+    "properties": {
+    "A":502184,
+    "B":"La Petite Academy - Cypress Creek",
+    "C":"805 Cypress Creek Rd Cedar Park, Tx  78613",
+    "D":48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.833725,30.528331 ]
+    },
+    "properties": {
+    "A":232186,
+    "B":"La Petite Academy - North Bell",
+    "C":"1609 N Bell Blvd Cedar Park, Tx  78613",
+    "D":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.852174,30.628879 ]
+    },
+    "properties": {
+    "A":1695529,
+    "B":"Larkspur Elementary YMCA",
+    "C":"424 Rusk Bluff Ave Leander, Tx  78641",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.755774,30.421757 ]
+    },
+    "properties": {
+    "A":404096,
+    "B":"Laurel Mountain YMCA",
+    "C":"10111 D K Ranch Rd Austin, Tx  78759",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.774403,30.515732 ]
+    },
+    "properties": {
+    "A":1691224,
+    "B":"LeafSpring School",
+    "C":"11651 West Parmer Ln Cedar Park, Tx  78613",
+    "D":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.971371,29.566113 ]
+    },
+    "properties": {
+    "A":1539447,
+    "B":"Leap Ahead Learning",
+    "C":"607 Jefferson Ave Seguin, Tx  78155",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.687178,30.659833 ]
+    },
+    "properties": {
+    "A":1684443,
+    "B":"Leaps and Bounds Learning Center",
+    "C":"111 Golden Oaks Dr Georgetown, Tx  78628",
+    "D":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.756796,30.35242 ]
+    },
+    "properties": {
+    "A":849013,
+    "B":"Leaps n Bounds",
+    "C":"7010 Village Center Dr Austin, Tx  78731",
+    "D":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.919558,30.308104 ]
+    },
+    "properties": {
+    "A":1684227,
+    "B":"Learn and Laugh Preschool",
+    "C":"11715 Fm 2244 Austin, Tx  78738",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.26729,30.578397 ]
+    },
+    "properties": {
+    "A":1647569,
+    "B":"Learning Path Childcare LLC",
+    "C":"501 12Th St Bldg 3 Marble Falls, Tx  78654",
+    "D":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.68136,30.488635 ]
+    },
+    "properties": {
+    "A":1077706,
+    "B":"Learning Tree Day School",
+    "C":"2106 Rawhide Dr Round Rock, Tx  78681",
+    "D":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.847991,29.995094 ]
+    },
+    "properties": {
+    "A":867254,
+    "B":"Lehman High School Child Development Center",
+    "C":"1700 Lehman Rd Kyle, Tx  78640",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.544681,30.533485 ]
+    },
+    "properties": {
+    "A":869522,
+    "B":"LifePointe Christian Academy",
+    "C":"1451 Carl Stern Blvd Hutto, Tx  78634",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.836103,30.49514 ]
+    },
+    "properties": {
+    "A":1696476,
+    "B":"Light The Way Learning Center",
+    "C":"900 Nelson Ranch Rd Cedar Park, Tx  78613",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.547623,29.70326 ]
+    },
+    "properties": {
+    "A":1670712,
+    "B":"Lil Einstein Learning Center",
+    "C":"1022 Jackson St Columbus, Tx  78934",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.671442,29.889189 ]
+    },
+    "properties": {
+    "A":982906,
+    "B":"Lil Lions Learning Center",
+    "C":"212 Cemetary St Lockhart, Tx  78644",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.930145,29.880155 ]
+    },
+    "properties": {
+    "A":543878,
+    "B":"Linda Burt",
+    "C":"914 Field St San Marcos, Tx  78666",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.682392,30.585331 ]
+    },
+    "properties": {
+    "A":1684643,
+    "B":"Lionheart Childrens Academy at Celebration Church",
+    "C":"601 Westinghouse Rd Georgetown, Tx  78626",
+    "D":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.824542,30.464917 ]
+    },
+    "properties": {
+    "A":1378726,
+    "B":"Little Acorn Academy LLC",
+    "C":"3200 Hatch Rd Cedar Park, Tx  78613",
+    "D":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.423225,30.103923 ]
+    },
+    "properties": {
+    "A":1512286,
+    "B":"Little Acorns Academy",
+    "C":"921 Cherry St Blanco, Tx  78606",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.73445,30.299233 ]
+    },
+    "properties": {
+    "A":1700258,
+    "B":"Little Angels EAC YMCA",
+    "C":"55 N Interstate 35 Austin, Tx  78702",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.661449,30.450724 ]
+    },
+    "properties": {
+    "A":1685266,
+    "B":"Little Angels Learning Center",
+    "C":"15635 Vision Dr Ste 108 Pflugerville, Tx  78660",
+    "D":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.861376,29.859437 ]
+    },
+    "properties": {
+    "A":1621258,
+    "B":"Little Britches",
+    "C":"57 Thomas Dr Martindale, Tx  78655",
+    "D":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.920368,30.665416 ]
+    },
+    "properties": {
+    "A":950446,
+    "B":"Little Crusaders Christian Preschool",
+    "C":"3203 Rr 1869 Liberty Hill, Tx  78642",
+    "D":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.748244,30.199351 ]
+    },
+    "properties": {
+    "A":1707105,
+    "B":"Little Explorers Childcare",
+    "C":"2313 Teri Rd Austin, Tx  78744",
+    "D":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.677454,30.30336 ]
+    },
+    "properties": {
+    "A":182972,
+    "B":"Little Folks Nursery and Bilingual Day Care Center",
+    "C":"5706 Reicher Dr Austin, Tx  78723",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.734226,30.514418 ]
+    },
+    "properties": {
+    "A":1596738,
+    "B":"Little Hands Daycare INC",
+    "C":"3620 Hillside Dr Round Rock, Tx  78681",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.86279,30.579572 ]
+    },
+    "properties": {
+    "A":1384487,
+    "B":"Little Hugs Childcare LLC",
+    "C":"11701 Old 2243 W Ste B Leander, Tx  78641",
+    "D":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.930365,29.878488 ]
+    },
+    "properties": {
+    "A":1552365,
+    "B":"Little Lambs Learning Center",
+    "C":"415 Riverside Dr San Marcos, Tx  78666",
+    "D":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.849711,29.997983 ]
+    },
+    "properties": {
+    "A":1685029,
+    "B":"Little Leaders Childcare Center",
+    "C":"1501 Bunton Creek Rd Ste 102 Kyle, Tx  78640",
+    "D":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.684208,30.519745 ]
+    },
+    "properties": {
+    "A":1652204,
+    "B":"Little Learners Preschool",
+    "C":"100 Northwest Dr Round Rock, Tx  78664",
+    "D":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.676977,30.502758 ]
+    },
+    "properties": {
+    "A":1670081,
+    "B":"Little Miracles Christian Preschool",
+    "C":"750 S Mays St Round Rock, Tx  78664",
+    "D":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.666521,30.518509 ]
+    },
+    "properties": {
+    "A":1670092,
+    "B":"Little Miracles Christian Preschool II",
+    "C":"1008 Provident Ln Round Rock, Tx  78664",
+    "D":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.713286,30.385915 ]
+    },
+    "properties": {
+    "A":1289106,
+    "B":"Little Munchkins Learning Center",
+    "C":"2020 Denton Dr Austin, Tx  78758",
+    "D":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.54209,30.540366 ]
+    },
+    "properties": {
+    "A":1699075,
+    "B":"Little Ones World",
+    "C":"216 S Fm 1660 Hutto, Tx  78634",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.919556,30.667554 ]
+    },
+    "properties": {
+    "A":544131,
+    "B":"Little People Learning Place",
+    "C":"150 Blue Bonnet Ln Liberty Hill, Tx  78642",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.659132,30.391454 ]
+    },
+    "properties": {
+    "A":1702172,
+    "B":"Little Rascals Daycare",
+    "C":"1006 E Yager Ln Austin, Tx  78753",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32775,30.10413 ]
+    },
+    "properties": {
+    "A":1260869,
+    "B":"Little Sheep Learning Center",
+    "C":"202 Highway 71 W Bastrop, Tx  78602",
+    "D":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.599537,30.252242 ]
+    },
+    "properties": {
+    "A":1595862,
+    "B":"Little Sprouts",
+    "C":"12712 Fm 969 Austin, Tx  78724",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.100461,30.762902 ]
+    },
+    "properties": {
+    "A":819172,
+    "B":"Little Texans",
+    "C":"1841 C R 258 Bertram, Tx  78605",
+    "D":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.233993,30.755273 ]
+    },
+    "properties": {
+    "A":1183586,
+    "B":"Little Texans Child Development Center",
+    "C":"509 W Jackson St Burnet, Tx  78611",
+    "D":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.08757,30.198634 ]
+    },
+    "properties": {
+    "A":1643644,
+    "B":"Little Tigers Learning Center",
+    "C":"27979 Ranch Road 12 Dripping Springs, Tx  78620",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.683986,29.874082 ]
+    },
+    "properties": {
+    "A":1708911,
+    "B":"Lockhart ISD Cub House Child Development Center",
+    "C":"610 San Jacinto St Lockhart, Tx  78644",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.668302,29.84641 ]
+    },
+    "properties": {
+    "A":1500297,
+    "B":"Lockhart Learning Center",
+    "C":"2635 Hwy 183 N Lockhart, Tx  78644",
+    "D":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.400286,30.362781 ]
+    },
+    "properties": {
+    "A":839379,
+    "B":"Mabrys Munchkins Learning Center",
+    "C":"1512 N Avenue C Elgin, Tx  78621",
+    "D":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.764861,30.247096 ]
+    },
+    "properties": {
+    "A":21007,
+    "B":"Mainspring at Live Oak",
+    "C":"1100 W Live Oak St Austin, Tx  78704",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.550657,30.341359 ]
+    },
+    "properties": {
+    "A":840823,
+    "B":"Manor ISD Child Development Center",
+    "C":"600 E Parsons St Manor, Tx  78653",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.714428,30.292598 ]
+    },
+    "properties": {
+    "A":1699699,
+    "B":"Maplewood EAC YMCA",
+    "C":"3808 Maplewood Ave Austin, Tx  78722",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.936755,30.187105 ]
+    },
+    "properties": {
+    "A":844168,
+    "B":"Martin Luther Lutheran Church Day School",
+    "C":"573 N Main St Giddings, Tx  78942",
+    "D":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.703183,30.521013 ]
+    },
+    "properties": {
+    "A":1511429,
+    "B":"Mimis Learning Center",
+    "C":"1800 Sam Bass Rd Ste B Round Rock, Tx  78681",
+    "D":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.778551,30.453144 ]
+    },
+    "properties": {
+    "A":1670209,
+    "B":"Momma Carolyns Creative Learning Center",
+    "C":"12702 Sherbourne St Austin, Tx  78729",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.789874,30.50056 ]
+    },
+    "properties": {
+    "A":1505054,
+    "B":"Monkeys Jumping Room",
+    "C":"14816 Slingshot Rd Austin, Tx  78717",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.342952,30.33548 ]
+    },
+    "properties": {
+    "A":249641,
+    "B":"Morgans Day Care",
+    "C":"1126 Old Mcdade Rd Elgin, Tx  78621",
+    "D":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.548163,30.544007 ]
+    },
+    "properties": {
+    "A":555531,
+    "B":"Mothers Choice Child Development / Learning Center",
+    "C":"208 Farley St Hutto, Tx  78634",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.458625,30.677457 ]
+    },
+    "properties": {
+    "A":551574,
+    "B":"Munchkinland Learning Center",
+    "C":"3948 Hwy 1431 W Kingsland, Tx  78639",
+    "D":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.653844,30.441849 ]
+    },
+    "properties": {
+    "A":1697224,
+    "B":"My Big Brain Learning Academy",
+    "C":"15302 Spring Hill Ln Pflugerville, Tx  78660",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.008599,30.415042 ]
+    },
+    "properties": {
+    "A":1338166,
+    "B":"My Friends House",
+    "C":"609 Hale St Lexington, Tx  78947",
+    "D":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.786769,30.227992 ]
+    },
+    "properties": {
+    "A":1223786,
+    "B":"Nanas Playhouse Learning Center",
+    "C":"4406 Russell Dr Austin, Tx  78745",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.380312,30.3438 ]
+    },
+    "properties": {
+    "A":1694926,
+    "B":"New Beginnings Child Development Cntr. LLC",
+    "C":"700 Bull Run Elgin, Tx  78621",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.761769,30.23917 ]
+    },
+    "properties": {
+    "A":501645,
+    "B":"New Generation",
+    "C":"2600 2606 First St S Austin, Tx  78704",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.693044,30.271857 ]
+    },
+    "properties": {
+    "A":1662781,
+    "B":"Nurturing Child Care Centers",
+    "C":"1054 Springdale Rd Ste L Austin, Tx  78721",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.119677,30.208763 ]
+    },
+    "properties": {
+    "A":1708575,
+    "B":"OakSong School of the Hill Country",
+    "C":"140 Russell Ln Dripping Springs, Tx  78620",
+    "D":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.713985,30.291508 ]
+    },
+    "properties": {
+    "A":226045,
+    "B":"Open Door East School",
+    "C":"3804 Cherrywood Rd Austin, Tx  78722",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.707645,30.282197 ]
+    },
+    "properties": {
+    "A":1382606,
+    "B":"Open Door Preschool at M Station",
+    "C":"2918 E Mlk Blvd Austin, Tx  78702",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.618022,30.452756 ]
+    },
+    "properties": {
+    "A":1634368,
+    "B":"PISD Brookhollow Elementary Extended Day Program",
+    "C":"1200 N Railroad Ave Pflugerville, Tx  78660",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.655269,30.468688 ]
+    },
+    "properties": {
+    "A":1489566,
+    "B":"PISD Caldwell Elementary Extended Day Program",
+    "C":"1718 Picadilly Dr Round Rock, Tx  78664",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.593608,30.496335 ]
+    },
+    "properties": {
+    "A":1583376,
+    "B":"PISD Dearing Elementary Extended Day Program",
+    "C":"4301 Gattis School Rd Round Rock, Tx  78664",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.690987,30.413831 ]
+    },
+    "properties": {
+    "A":1497746,
+    "B":"PISD Parmer Lane Elementary Extended Day Program",
+    "C":"1806 W Parmer Ln Austin, Tx  78727",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.683203,30.380289 ]
+    },
+    "properties": {
+    "A":1249146,
+    "B":"Papa / Nanas Child Care",
+    "C":"11301 Hornsby St Austin, Tx  78753",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.673863,30.519165 ]
+    },
+    "properties": {
+    "A":1681544,
+    "B":"Pathways Child Development Center LLC",
+    "C":"1100 Egger Ave Round Rock, Tx  78664",
+    "D":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.425815,30.099286 ]
+    },
+    "properties": {
+    "A":1397806,
+    "B":"Peggys Playhouse Childcare Center",
+    "C":"820 4Th St Blanco, Tx  78606",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.75387,30.170394 ]
+    },
+    "properties": {
+    "A":1699940,
+    "B":"Perez EAC YMCA",
+    "C":"7500 S Pleasant Valley Rd Austin, Tx  78744",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.823461,30.039634 ]
+    },
+    "properties": {
+    "A":1700059,
+    "B":"Pfluger EAC YMCA",
+    "C":"4951 Marsh Ln Buda, Tx  78610",
+    "D":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.628891,30.441935 ]
+    },
+    "properties": {
+    "A":216030,
+    "B":"Pflugerville La Petite Academy",
+    "C":"204 S 10Th St Pflugerville, Tx  78660",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.70575,30.317743 ]
+    },
+    "properties": {
+    "A":1707161,
+    "B":"Playtime Learning Center",
+    "C":"1023 Reinli St Austin, Tx  78723",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.830056,30.478969 ]
+    },
+    "properties": {
+    "A":897602,
+    "B":"Primrose School of Cedar Park West",
+    "C":"2021 Little Elm Trl Cedar Park, Tx  78613",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.862566,30.538066 ]
+    },
+    "properties": {
+    "A":1599261,
+    "B":"Primrose School of Crystal Falls",
+    "C":"1781 Osage Dr Leander, Tx  78641",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.70253,30.412586 ]
+    },
+    "properties": {
+    "A":517024,
+    "B":"Prodigy Child Development Center",
+    "C":"2300 Cedar Bend Dr Austin, Tx  78758",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.701594,30.305464 ]
+    },
+    "properties": {
+    "A":1680052,
+    "B":"PromiseLand Learning Center",
+    "C":"1504 E 51St St Austin, Tx  78723",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.233299,30.770434 ]
+    },
+    "properties": {
+    "A":870260,
+    "B":"Pumpkin Patch Learning Center",
+    "C":"1112 Sherrard St Burnet, Tx  78611",
+    "D":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.82064,30.456271 ]
+    },
+    "properties": {
+    "A":409745,
+    "B":"Purple Sage YMCA",
+    "C":"11601 El Salido Austin, Tx  78750",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.224736,30.770379 ]
+    },
+    "properties": {
+    "A":1690595,
+    "B":"RJ Richey Elementary YMCA",
+    "C":"500 E Graves St Burnet, Tx  78611",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.755658,30.205244 ]
+    },
+    "properties": {
+    "A":1704613,
+    "B":"Rainbow Scholars Academy",
+    "C":"1700 Teri Rd Austin, Tx  78744",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.622765,30.491735 ]
+    },
+    "properties": {
+    "A":1631886,
+    "B":"Raquel Smith",
+    "C":"1005 Howell Terrace Pl Round Rock, Tx  78664",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.688522,30.330732 ]
+    },
+    "properties": {
+    "A":823102,
+    "B":"Rosies Day Care",
+    "C":"7512 Cameron Rd Austin, Tx  78752",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.73871,30.495787 ]
+    },
+    "properties": {
+    "A":534765,
+    "B":"Round Rock ISD Child Development Center-Great Oaks",
+    "C":"16455 S Great Oaks Dr Round Rock, Tx  78681",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.672221,30.495671 ]
+    },
+    "properties": {
+    "A":1556835,
+    "B":"Round Rock ISD Success Child Development Center",
+    "C":"500 Gattis School Rd Round Rock, Tx  78664",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.656731,30.493495 ]
+    },
+    "properties": {
+    "A":1657382,
+    "B":"Round Rock KinderCare",
+    "C":"1900 S A W Grimes Blvd Round Rock, Tx  78664",
+    "D":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.704212,30.522616 ]
+    },
+    "properties": {
+    "A":526684,
+    "B":"Round Rock Montessori School",
+    "C":"1818 Sam Bass Rd Round Rock, Tx  78681",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.936206,29.858456 ]
+    },
+    "properties": {
+    "A":404042,
+    "B":"SMCISD Child Development Center",
+    "C":"540 Staples Rd San Marcos, Tx  78666",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.413661,30.572987 ]
+    },
+    "properties": {
+    "A":125716,
+    "B":"ST Paul Lutheran Child Development Center",
+    "C":"401 W 7Th St Taylor, Tx  76574",
+    "D":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.987929,30.114403 ]
+    },
+    "properties": {
+    "A":510453,
+    "B":"ST Paul Lutheran Early Childhood Center",
+    "C":"1580 C R 211 Giddings, Tx  78942",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.74007,30.341973 ]
+    },
+    "properties": {
+    "A":867843,
+    "B":"Sammys House Child Development Center",
+    "C":"2415 Twin Oaks Dr Austin, Tx  78757",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.107336,29.688402 ]
+    },
+    "properties": {
+    "A":1575176,
+    "B":"Sarahs Tender Loving Care Learning Center",
+    "C":"115 N Market St Flatonia, Tx  78941",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.838293,30.01486 ]
+    },
+    "properties": {
+    "A":1700361,
+    "B":"Science Hall EAC YMCA",
+    "C":"1510 Bebee Rd Kyle, Tx  78640",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.424853,30.572111 ]
+    },
+    "properties": {
+    "A":191620,
+    "B":"Seventh Street Day Care",
+    "C":"619 Vernon St Taylor, Tx  76574",
+    "D":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.216748,30.76984 ]
+    },
+    "properties": {
+    "A":1690586,
+    "B":"Shady Grove Elementary YMCA",
+    "C":"111 Shady Grove Rd Burnet, Tx  78611",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.594434,30.103999 ]
+    },
+    "properties": {
+    "A":244917,
+    "B":"Sharon Clark",
+    "C":"125 Meadow View Blvd Del Valle, Tx  78617",
+    "D":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.416094,30.651025 ]
+    },
+    "properties": {
+    "A":1693132,
+    "B":"Shays Home Daycare",
+    "C":"13640 W Fm 1431 Kingsland, Tx  78639",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.63823,30.466343 ]
+    },
+    "properties": {
+    "A":1697673,
+    "B":"Shondas Kids",
+    "C":"17323 Manish Dr Pflugerville, Tx  78660",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.693854,30.458526 ]
+    },
+    "properties": {
+    "A":890713,
+    "B":"Shoreline Learning Center",
+    "C":"15201 Burnet Rd Austin, Tx  78728",
+    "D":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.828534,29.945392 ]
+    },
+    "properties": {
+    "A":1033346,
+    "B":"Simon Middle School Child Care Center",
+    "C":"3839 E Fm 150 Kyle, Tx  78640",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.948699,29.879281 ]
+    },
+    "properties": {
+    "A":855114,
+    "B":"Small Fries Child Care and Learning Center",
+    "C":"709 W Hopkins St San Marcos, Tx  78666",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.676119,29.890548 ]
+    },
+    "properties": {
+    "A":543151,
+    "B":"Small World Learning Center",
+    "C":"727 N Blanco St Lockhart, Tx  78644",
+    "D":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.67554,30.502076 ]
+    },
+    "properties": {
+    "A":850747,
+    "B":"Small World Preschool LLC",
+    "C":"111 E Logan St Round Rock, Tx  78664",
+    "D":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.008546,30.416111 ]
+    },
+    "properties": {
+    "A":1413186,
+    "B":"Solid Rock Daycare",
+    "C":"704 Hale St Lexington, Tx  78947",
+    "D":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.647369,30.448464 ]
+    },
+    "properties": {
+    "A":1680958,
+    "B":"Sprouting Star Childrens Academy",
+    "C":"15913 Windermere Dr Pflugerville, Tx  78660",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.756441,30.439123 ]
+    },
+    "properties": {
+    "A":222640,
+    "B":"Stepping Stone School III",
+    "C":"6616 Mcneil Dr Austin, Tx  78729",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.793207,30.455533 ]
+    },
+    "properties": {
+    "A":401694,
+    "B":"Stepping Stone School IV",
+    "C":"9914 Woodland Village Dr Austin, Tx  78750",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.796882,30.454296 ]
+    },
+    "properties": {
+    "A":503943,
+    "B":"Stepping Stone School VI",
+    "C":"12301 Hymeadow Dr Austin, Tx  78750",
+    "D":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.724093,30.500093 ]
+    },
+    "properties": {
+    "A":523880,
+    "B":"Stepping Stone School VIII",
+    "C":"7601 Oconnor Dr Round Rock, Tx  78681",
+    "D":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.838082,30.544887 ]
+    },
+    "properties": {
+    "A":537655,
+    "B":"Stepping Stone School X",
+    "C":"225 Block House Dr Leander, Tx  78641",
+    "D":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.750053,30.457486 ]
+    },
+    "properties": {
+    "A":819004,
+    "B":"Stepping Stone School XII",
+    "C":"7700 W Parmer Ln Austin, Tx  78729",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.651391,30.53222 ]
+    },
+    "properties": {
+    "A":881208,
+    "B":"Stepping Stone School XV",
+    "C":"2301 N A W Grimes Blvd Round Rock, Tx  78665",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.922177,29.683712 ]
+    },
+    "properties": {
+    "A":182756,
+    "B":"Storyland Nursery",
+    "C":"104 Meadow Creek Dr Schulenburg, Tx  78956",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.719066,30.418394 ]
+    },
+    "properties": {
+    "A":1699734,
+    "B":"Summit EAC YMCA",
+    "C":"12207 Brigadoon Ln Austin, Tx  78727",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.937917,29.861116 ]
+    },
+    "properties": {
+    "A":1560394,
+    "B":"Sunset After School Program Bonham Pre-Kindergar",
+    "C":"1225 N Hwy 123 San Marcos, Tx  78666",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.961869,29.884765 ]
+    },
+    "properties": {
+    "A":891105,
+    "B":"Sunset After School Program Crockett Elementary",
+    "C":"1300 Girard St San Marcos, Tx  78666",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.949701,29.857656 ]
+    },
+    "properties": {
+    "A":1033886,
+    "B":"Sunset After School Program Mendez Elementary",
+    "C":"1805 Peter Garza Dr San Marcos, Tx  78666",
+    "D":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.96843,29.86553 ]
+    },
+    "properties": {
+    "A":524220,
+    "B":"Sunset After School Program at Hernandez",
+    "C":"333 Stagecoach Trl San Marcos, Tx  78666",
+    "D":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.997166,29.972907 ]
+    },
+    "properties": {
+    "A":1696056,
+    "B":"Sunset After School Program at Rodriguez E",
+    "C":"1481 Esplanade Parkway San Marcos, Tx  78666",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.903916,29.834266 ]
+    },
+    "properties": {
+    "A":517691,
+    "B":"Sunset Afterschool Program at Dezavala",
+    "C":"Fm 621 S San Marcos, Tx  78666",
+    "D":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.941657,29.820162 ]
+    },
+    "properties": {
+    "A":864118,
+    "B":"Sunset Afterschool Program at James Bowie",
+    "C":"4020 Monterrey Oaks San Marcos, Tx  78666",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.923685,29.896645 ]
+    },
+    "properties": {
+    "A":505545,
+    "B":"Sunset Afterschool Program at Travis",
+    "C":"1437 Post Rd San Marcos, Tx  78666",
+    "D":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.783703,30.195104 ]
+    },
+    "properties": {
+    "A":893814,
+    "B":"Susys Day Care Center",
+    "C":"308 W William Cannon Dr # B Austin, Tx  78745",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.776854,30.204415 ]
+    },
+    "properties": {
+    "A":1663058,
+    "B":"Sweet Briar Child Development Center 1",
+    "C":"205 Sandra St Austin, Tx  78745",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.735203,30.19963 ]
+    },
+    "properties": {
+    "A":1663343,
+    "B":"Sweet Briar Child Development Center 2",
+    "C":"4600 Nuckols Crossing Rd Austin, Tx  78744",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.426134,30.110624 ]
+    },
+    "properties": {
+    "A":863455,
+    "B":"Sweetpea Learning Center",
+    "C":"104 Union Chapel Rd Cedar Creek, Tx  78612",
+    "D":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.66492,30.550472 ]
+    },
+    "properties": {
+    "A":1628447,
+    "B":"TWINKLE TIME HOME CHILD CARE",
+    "C":"3328 Perch Trl Round Rock, Tx  78665",
+    "D":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.668958,30.449704 ]
+    },
+    "properties": {
+    "A":1473026,
+    "B":"Tanias Tots Learning Center",
+    "C":"15400 Marsha St Austin, Tx  78728",
+    "D":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.869423,30.525783 ]
+    },
+    "properties": {
+    "A":1633827,
+    "B":"Tasia Johnson",
+    "C":"2111 Branum Cv Cedar Park, Tx  78613",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.777813,30.206917 ]
+    },
+    "properties": {
+    "A":947346,
+    "B":"Tender Memories Learning Center",
+    "C":"308 W Stassney Ln Austin, Tx  78745",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.421453,30.591464 ]
+    },
+    "properties": {
+    "A":892508,
+    "B":"Teresa Camacho",
+    "C":"801 Cottonbowl Dr Taylor, Tx  76574",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.315443,30.10438 ]
+    },
+    "properties": {
+    "A":1674673,
+    "B":"Terris Tiny Tots Learning Center",
+    "C":"1007 College St Bastrop, Tx  78602",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.842196,30.551533 ]
+    },
+    "properties": {
+    "A":1698356,
+    "B":"Texas Academy of Gymnastics",
+    "C":"2041 S Highway 183 Leander, Tx  78641",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.916533,29.896372 ]
+    },
+    "properties": {
+    "A":1489406,
+    "B":"Texas Preparatory School",
+    "C":"400 Uhland Rd San Marcos, Tx  78666",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.672676,30.323698 ]
+    },
+    "properties": {
+    "A":1558245,
+    "B":"Texas Preparatory School Austin",
+    "C":"7540 Ed Bluestein Blvd Austin, Tx  78723",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.679592,30.506998 ]
+    },
+    "properties": {
+    "A":1496515,
+    "B":"Texas Spanish Academy",
+    "C":"201 W Bagdad Ave Round Rock, Tx  78664",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.650016,30.487697 ]
+    },
+    "properties": {
+    "A":1659618,
+    "B":"Texas Spanish Academy",
+    "C":"2471 S A W Grimes Blvd Bldg 200 Round Rock, Tx  78664",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.949688,29.887704 ]
+    },
+    "properties": {
+    "A":59795,
+    "B":"Texas State Child Development Center",
+    "C":"102 Lueders San Marcos, Tx  78666",
+    "D":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.500135,30.350836 ]
+    },
+    "properties": {
+    "A":1652155,
+    "B":"The Busy Bee Preschool",
+    "C":"11300 Us Highway 290 E Ste 320 Manor, Tx  78653",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.644538,30.46746 ]
+    },
+    "properties": {
+    "A":547557,
+    "B":"The Childrens Courtyard",
+    "C":"1308 Picadilly Dr Pflugerville, Tx  78660",
+    "D":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.649434,29.679496 ]
+    },
+    "properties": {
+    "A":1704339,
+    "B":"The Eency Weency Chickabees Academy",
+    "C":"522 E Crockett St Luling, Tx  78648",
+    "D":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.635212,30.42925 ]
+    },
+    "properties": {
+    "A":1637724,
+    "B":"The Goddard School",
+    "C":"1040 E Wells Branch Pkwy Pflugerville, Tx  78660",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.818711,30.641087 ]
+    },
+    "properties": {
+    "A":1687983,
+    "B":"The Goddard School",
+    "C":"2064 Kauffman Loop Georgetown, Tx  78628",
+    "D":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.699675,30.670734 ]
+    },
+    "properties": {
+    "A":1701272,
+    "B":"The Goddard School",
+    "C":"3740 Williams Dr Georgetown, Tx  78628",
+    "D":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.81853,30.565478 ]
+    },
+    "properties": {
+    "A":909850,
+    "B":"The Good Earth Day School LLC",
+    "C":"10820 E Crystal Falls Pkwy Leander, Tx  78641",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.967717,29.858131 ]
+    },
+    "properties": {
+    "A":527154,
+    "B":"The Kid Ranch Christian Preschool",
+    "C":"2411 Hunter Rd San Marcos, Tx  78666",
+    "D":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.87343,29.927641 ]
+    },
+    "properties": {
+    "A":877446,
+    "B":"The Remnant Academy",
+    "C":"3007 Cedar Creek Dr La Grange, Tx  78945",
+    "D":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.861904,30.125011 ]
+    },
+    "properties": {
+    "A":1542223,
+    "B":"The Sunshine Cottage Preschool / Development Cente",
+    "C":"402 Lewis Ln Buda, Tx  78610",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.727506,30.354262 ]
+    },
+    "properties": {
+    "A":887258,
+    "B":"Tic Tac Toe Learning Center",
+    "C":"2003 W Anderson Ln Austin, Tx  78757",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.270251,30.594046 ]
+    },
+    "properties": {
+    "A":1587936,
+    "B":"Tierra Vista Montessori School",
+    "C":"2400 Commerce St Marble Falls, Tx  78654",
+    "D":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.009631,30.654616 ]
+    },
+    "properties": {
+    "A":1627217,
+    "B":"Tiger Learning Center - Rockdale ISD",
+    "C":"625 W Belton Ave Rockdale, Tx  76567",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.550257,30.540952 ]
+    },
+    "properties": {
+    "A":1624625,
+    "B":"Tiger Rock Martial Arts of Hutto",
+    "C":"503 W Front St Hutto, Tx  78634",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.933598,30.177368 ]
+    },
+    "properties": {
+    "A":404705,
+    "B":"Tiny Dreamers Learning Center",
+    "C":"631 S Harris St Giddings, Tx  78942",
+    "D":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.791689,30.212949 ]
+    },
+    "properties": {
+    "A":1512548,
+    "B":"Tiny Feet Daycare 2",
+    "C":"1408 W Stassney Ln Austin, Tx  78745",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.86096,29.975466 ]
+    },
+    "properties": {
+    "A":831308,
+    "B":"Tobias Early Learning Center",
+    "C":"1005 F M 150 E Kyle, Tx  78640",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.86096,29.975466 ]
+    },
+    "properties": {
+    "A":1700359,
+    "B":"Tobias International EAC YMCA",
+    "C":"1005 E Fm 150 Kyle, Tx  78640",
+    "D":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.672243,30.357391 ]
+    },
+    "properties": {
+    "A":859022,
+    "B":"Todays Child Day Care",
+    "C":"9908 Dessau Rd Austin, Tx  78754",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.818843,30.064036 ]
+    },
+    "properties": {
+    "A":1700118,
+    "B":"Tom Green EAC YMCA",
+    "C":"1301 Old Goforth Rd Buda, Tx  78610",
+    "D":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.804418,30.544735 ]
+    },
+    "properties": {
+    "A":242951,
+    "B":"Tots",
+    "C":"2125 Downing Ln Leander, Tx  78641",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.746012,30.241285 ]
+    },
+    "properties": {
+    "A":1699735,
+    "B":"Travis Heights EAC YMCA",
+    "C":"2010 Alameda Dr Austin, Tx  78704",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.353334,30.338508 ]
+    },
+    "properties": {
+    "A":539542,
+    "B":"Tree House Incorporated",
+    "C":"989 Old Mcdade Rd Elgin, Tx  78621",
+    "D":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.793392,30.447649 ]
+    },
+    "properties": {
+    "A":1534976,
+    "B":"Trillium Montessori",
+    "C":"9707 Anderson Mill Rd Ste 350 Austin, Tx  78750",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.693557,30.516668 ]
+    },
+    "properties": {
+    "A":1646999,
+    "B":"Trillium Montessori",
+    "C":"1000 Sam Bass Cir Round Rock, Tx  78681",
+    "D":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.415885,30.597744 ]
+    },
+    "properties": {
+    "A":833418,
+    "B":"Trinity Child Development Center",
+    "C":"3505 N Main St Taylor, Tx  76574",
+    "D":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.747575,30.44955 ]
+    },
+    "properties": {
+    "A":865861,
+    "B":"Tutor Time Child Care Learning Center",
+    "C":"6801 Dallas Dr Austin, Tx  78729",
+    "D":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.813082,30.500236 ]
+    },
+    "properties": {
+    "A":230434,
+    "B":"Twin Lakes Child Development Center",
+    "C":"1150 S Bell Blvd Cedar Park, Tx  78613",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.678219,30.303444 ]
+    },
+    "properties": {
+    "A":1686484,
+    "B":"Two Steps Ahead Learning Center",
+    "C":"3028 Rogge Ln Austin, Tx  78723",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.786607,29.971458 ]
+    },
+    "properties": {
+    "A":1700360,
+    "B":"Uhland EAC YMCA",
+    "C":"2331 High Rd Uhland, Tx  78640",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.748039,31.078099 ]
+    },
+    "properties": {
+    "A":968228,
+    "B":"Unique CDC",
+    "C":"4408 Old Florence Rd Killeen, Tx  76542",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.732825,30.280553 ]
+    },
+    "properties": {
+    "A":412108,
+    "B":"University of Texas Child Care Center",
+    "C":"1925 San Jacinto Blvd Austin, Tx  78712",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.547125,30.539648 ]
+    },
+    "properties": {
+    "A":976666,
+    "B":"Valencia Willis",
+    "C":"319 Swenson Dr Hutto, Tx  78634",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.392613,30.177477 ]
+    },
+    "properties": {
+    "A":1662913,
+    "B":"Wee Care For All Child Care Center",
+    "C":"900 E Blue Bell Rd Brenham, Tx  77833",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.347544,30.115339 ]
+    },
+    "properties": {
+    "A":1511507,
+    "B":"Wee Care Learning Center",
+    "C":"159 Settlement Dr Bastrop, Tx  78602",
+    "D":66
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.785257,29.706188 ]
+    },
+    "properties": {
+    "A":1696248,
+    "B":"Weimar Wildcat Academy",
+    "C":"402 W Converse St Weimar, Tx  78962",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.686896,30.445247 ]
+    },
+    "properties": {
+    "A":402908,
+    "B":"Wells Branch YMCA",
+    "C":"14650 Merriltown Rd Austin, Tx  78728",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.692534,30.315938 ]
+    },
+    "properties": {
+    "A":212279,
+    "B":"Wesley School",
+    "C":"6100 Berkman Dr Austin, Tx  78723",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.692053,30.408765 ]
+    },
+    "properties": {
+    "A":1621962,
+    "B":"Wholesome Generation",
+    "C":"12251 Running Bird Ln Austin, Tx  78758",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.430427,30.128792 ]
+    },
+    "properties": {
+    "A":833403,
+    "B":"Wiggles n Giggles Child Development Center LLC",
+    "C":"374 F M 1209 Bastrop, Tx  78602",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.573219,30.69983 ]
+    },
+    "properties": {
+    "A":1710440,
+    "B":"Williams YMCA",
+    "C":"4101 South Western Blvd Georgetown, Tx  78626",
+    "D":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.71061,30.626506 ]
+    },
+    "properties": {
+    "A":1710045,
+    "B":"Wolf Ranch YMCA",
+    "C":"1201 Jay Wolf Dr Georgetown, Tx  78628",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.737578,30.318316 ]
+    },
+    "properties": {
+    "A":1558069,
+    "B":"Wonder Years Infant Center and Preschool",
+    "C":"4804 Grover Ave Austin, Tx  78756",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.971845,29.901249 ]
+    },
+    "properties": {
+    "A":520166,
+    "B":"Wonderland School Day Care",
+    "C":"302 Country Estates Dr San Marcos, Tx  78666",
+    "D":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.231541,30.744034 ]
+    },
+    "properties": {
+    "A":150250425,
+    "B":"YMCA CAMP AT GALLOWAY HAMMOND REC",
+    "C":"1601 S Water Street Burnet, Tx  78611",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.85795,30.574145 ]
+    },
+    "properties": {
+    "A":1590336,
+    "B":"YMCA Camacho School Age Program",
+    "C":"501 Municipal Leander, Tx  78641",
+    "D":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.661346,30.588874 ]
+    },
+    "properties": {
+    "A":1578798,
+    "B":"YMCA Carver Elementary",
+    "C":"4901 Scenic Lake Dr Georgetown, Tx  78626",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.732693,30.556886 ]
+    },
+    "properties": {
+    "A":1195026,
+    "B":"YMCA Chandler Oaks Elementary",
+    "C":"3800 Stone Oak Dr Round Rock, Tx  78681",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.687622,30.526132 ]
+    },
+    "properties": {
+    "A":232453,
+    "B":"YMCA Child Care Center",
+    "C":"1812 N Mays St Round Rock, Tx  78664",
+    "D":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.64918,30.66031 ]
+    },
+    "properties": {
+    "A":1578616,
+    "B":"YMCA Cooper Elementary",
+    "C":"1921 Ne Inner Loop Georgetown, Tx  78626",
+    "D":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.72818,30.688935 ]
+    },
+    "properties": {
+    "A":1579687,
+    "B":"YMCA Ford Elementary",
+    "C":"210 Woodlake Dr Georgetown, Tx  78633",
+    "D":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.688324,30.669992 ]
+    },
+    "properties": {
+    "A":1579679,
+    "B":"YMCA Frost Elementary",
+    "C":"711 Lakeway Dr Georgetown, Tx  78628",
+    "D":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.557441,30.519696 ]
+    },
+    "properties": {
+    "A":1634010,
+    "B":"YMCA Howard Norman Elementary",
+    "C":"101 Llano River Trl Hutto, Tx  78634",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.680344,30.456133 ]
+    },
+    "properties": {
+    "A":1634139,
+    "B":"YMCA Joe Lee Johnson Elementary",
+    "C":"2800 Sauls Dr Austin, Tx  78728",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.705175,30.693636 ]
+    },
+    "properties": {
+    "A":1579657,
+    "B":"YMCA McCoy Elementary",
+    "C":"401 Belaire Georgetown, Tx  78628",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.642388,30.619389 ]
+    },
+    "properties": {
+    "A":1579019,
+    "B":"YMCA Mitchell Elementary",
+    "C":"1601 Rockride Ln Georgetown, Tx  78626",
+    "D":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.698915,30.61453 ]
+    },
+    "properties": {
+    "A":1579739,
+    "B":"YMCA Pickett Elementary",
+    "C":"1100 Thousand Oaks Blvd Georgetown, Tx  78628",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.665894,30.62738 ]
+    },
+    "properties": {
+    "A":1578816,
+    "B":"YMCA Purl Elementary",
+    "C":"1953 Maple Georgetown, Tx  78626",
+    "D":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.713835,30.698415 ]
+    },
+    "properties": {
+    "A":1579682,
+    "B":"YMCA Village Elementary",
+    "C":"400 Village Commons Blvd Georgetown, Tx  78633",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.815664,30.632473 ]
+    },
+    "properties": {
+    "A":1661027,
+    "B":"YMCA of GWC Rancho Sienna Elementary",
+    "C":"751 Bonnet Blvd Georgetown, Tx  78628",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.791198,30.56173 ]
+    },
+    "properties": {
+    "A":1660942,
+    "B":"YMCA of Williamson County Monta Akin Elementary",
+    "C":"3261 Barley Rd Leander, Tx  78641",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.806618,30.452648 ]
+    },
+    "properties": {
+    "A":879616,
+    "B":"YMCA-Anderson Mill Elementary",
+    "C":"10610 Salt Mill Holw Austin, Tx  78750",
+    "D":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.879781,30.579072 ]
+    },
+    "properties": {
+    "A":545434,
+    "B":"YMCA-Bagdad Elementary",
+    "C":"800 Deercreek Ln Leander, Tx  78641",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.684256,30.510716 ]
+    },
+    "properties": {
+    "A":879614,
+    "B":"YMCA-Berkman",
+    "C":"400 W Anderson Ave Round Rock, Tx  78664",
+    "D":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.623762,30.498681 ]
+    },
+    "properties": {
+    "A":559323,
+    "B":"YMCA-Blackland Prairie",
+    "C":"2105 Via Sonoma Dr Round Rock, Tx  78665",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.831798,30.540512 ]
+    },
+    "properties": {
+    "A":530472,
+    "B":"YMCA-Blockhouse Creek Elementary",
+    "C":"401 Creek Run Dr Leander, Tx  78641",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.691247,30.490057 ]
+    },
+    "properties": {
+    "A":879750,
+    "B":"YMCA-Bluebonnet Elementary",
+    "C":"1010 Chisholm Valley Dr Round Rock, Tx  78681",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.737534,30.511609 ]
+    },
+    "properties": {
+    "A":402915,
+    "B":"YMCA-Brushy Creek",
+    "C":"3800 Stonebridge Dr Round Rock, Tx  78681",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.854826,30.521097 ]
+    },
+    "properties": {
+    "A":531526,
+    "B":"YMCA-CC Mason Elementary",
+    "C":"1501 N Lakeline Blvd Cedar Park, Tx  78613",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.669203,30.565016 ]
+    },
+    "properties": {
+    "A":548104,
+    "B":"YMCA-Caldwell Heights",
+    "C":"4010 Eagles Nest St Round Rock, Tx  78665",
+    "D":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.659205,30.502119 ]
+    },
+    "properties": {
+    "A":901502,
+    "B":"YMCA-Callison Elementary",
+    "C":"1750 Thompson Trl Round Rock, Tx  78664",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.552694,30.556262 ]
+    },
+    "properties": {
+    "A":862775,
+    "B":"YMCA-Cottonwood Creek Elementary",
+    "C":"3160 Limmer Loop Hutto, Tx  78634",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.805527,30.503516 ]
+    },
+    "properties": {
+    "A":559324,
+    "B":"YMCA-Cox Elementary",
+    "C":"1001 Brushy Creek Rd Cedar Park, Tx  78613",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.836043,30.4653 ]
+    },
+    "properties": {
+    "A":531521,
+    "B":"YMCA-Cypress Elementary",
+    "C":"2900 El Salido Pkwy Cedar Park, Tx  78613",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.697206,30.500449 ]
+    },
+    "properties": {
+    "A":402906,
+    "B":"YMCA-Deepwood",
+    "C":"705 Saint Williams Ave Round Rock, Tx  78681",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.852968,30.482545 ]
+    },
+    "properties": {
+    "A":841161,
+    "B":"YMCA-Deer Creek",
+    "C":"2420 Zeppelin Dr Cedar Park, Tx  78613",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.64917,30.53445 ]
+    },
+    "properties": {
+    "A":402907,
+    "B":"YMCA-Doublefile",
+    "C":"2400 Chandler Creek Blvd Round Rock, Tx  78665",
+    "D":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.831381,30.48857 ]
+    },
+    "properties": {
+    "A":530469,
+    "B":"YMCA-Faubion Elementary",
+    "C":"1209 Cypress Creek Rd Cedar Park, Tx  78613",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.720029,30.516465 ]
+    },
+    "properties": {
+    "A":416715,
+    "B":"YMCA-Fern Bluff Elementary",
+    "C":"17815 Park Valley Dr Round Rock, Tx  78681",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.610108,30.508656 ]
+    },
+    "properties": {
+    "A":523985,
+    "B":"YMCA-Forest Creek",
+    "C":"3805 Forest Creek Dr Round Rock, Tx  78664",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.781139,30.470476 ]
+    },
+    "properties": {
+    "A":409733,
+    "B":"YMCA-Forest North Elementary",
+    "C":"13414 Broadmeade Ave Austin, Tx  78729",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.64156,30.49907 ]
+    },
+    "properties": {
+    "A":416749,
+    "B":"YMCA-Gattis",
+    "C":"2920 Round Rock Ranch Blvd Round Rock, Tx  78665",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.84524,30.523994 ]
+    },
+    "properties": {
+    "A":531797,
+    "B":"YMCA-Giddens Elementary",
+    "C":"1500 Timberwood Dr Cedar Park, Tx  78613",
+    "D":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.73871,30.495787 ]
+    },
+    "properties": {
+    "A":533389,
+    "B":"YMCA-Great Oaks Elementary",
+    "C":"16455 S Great Oaks Dr Round Rock, Tx  78681",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.539315,30.550563 ]
+    },
+    "properties": {
+    "A":503149,
+    "B":"YMCA-Hutto Elementary",
+    "C":"100 Mager Ln Hutto, Tx  78634",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.750001,30.444486 ]
+    },
+    "properties": {
+    "A":417949,
+    "B":"YMCA-Jollyville Elementary",
+    "C":"6720 Corpus Christi Dr Austin, Tx  78729",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.865266,30.531101 ]
+    },
+    "properties": {
+    "A":831234,
+    "B":"YMCA-Knowles Elementary",
+    "C":"2101 Cougar Country Cedar Park, Tx  78613",
+    "D":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.770911,30.453654 ]
+    },
+    "properties": {
+    "A":409743,
+    "B":"YMCA-Live Oak Elementary",
+    "C":"8607 Anderson Mill Rd Austin, Tx  78729",
+    "D":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.558515,30.534808 ]
+    },
+    "properties": {
+    "A":823884,
+    "B":"YMCA-Nadine Johnson Elementary School",
+    "C":"480 Carl Stern Dr Hutto, Tx  78634",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.830119,30.476712 ]
+    },
+    "properties": {
+    "A":538116,
+    "B":"YMCA-Naumann Elementary",
+    "C":"1201 Brighton Bend Ln Cedar Park, Tx  78613",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.883835,30.011042 ]
+    },
+    "properties": {
+    "A":864297,
+    "B":"YMCA-Negley Elementary Afterschool Site",
+    "C":"5940 Mcnaughton Kyle, Tx  78640",
+    "D":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.704285,30.53197 ]
+    },
+    "properties": {
+    "A":409646,
+    "B":"YMCA-Old Town Elementary",
+    "C":"2200 Chaparral Dr Round Rock, Tx  78681",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.770645,30.577712 ]
+    },
+    "properties": {
+    "A":901493,
+    "B":"YMCA-Parkside Elementary",
+    "C":"301 Garner Park Dr Georgetown, Tx  78628",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.868422,30.586942 ]
+    },
+    "properties": {
+    "A":862779,
+    "B":"YMCA-Plain Elementary",
+    "C":"501 S Brook Dr Leander, Tx  78641",
+    "D":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.835466,30.559012 ]
+    },
+    "properties": {
+    "A":841164,
+    "B":"YMCA-Pleasant Hill Elementary",
+    "C":"1800 Horizon Park Blvd Leander, Tx  78641",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.764282,30.446672 ]
+    },
+    "properties": {
+    "A":248490,
+    "B":"YMCA-Pond Springs Elementary",
+    "C":"7825 Elkhorn Mountain Trl Austin, Tx  78729",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.538925,30.513726 ]
+    },
+    "properties": {
+    "A":879621,
+    "B":"YMCA-Ray Elementary",
+    "C":"225 Swindoll Ln Hutto, Tx  78634",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.817971,30.493615 ]
+    },
+    "properties": {
+    "A":1546507,
+    "B":"YMCA-Reed",
+    "C":"1515 Little Elm Trl Cedar Park, Tx  78613",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.663326,30.523681 ]
+    },
+    "properties": {
+    "A":879749,
+    "B":"YMCA-Robertson",
+    "C":"1415 Bayland St Round Rock, Tx  78664",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.792868,30.496975 ]
+    },
+    "properties": {
+    "A":851565,
+    "B":"YMCA-Rutledge",
+    "C":"11501 Staked Plains Dr Austin, Tx  78717",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.662765,30.575733 ]
+    },
+    "properties": {
+    "A":901472,
+    "B":"YMCA-Teravista Elementary",
+    "C":"4419 Teravista Club Dr Round Rock, Tx  78665",
+    "D":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.661447,30.55432 ]
+    },
+    "properties": {
+    "A":820475,
+    "B":"YMCA-Union Hill",
+    "C":"1511 Gulf Way Round Rock, Tx  78665",
+    "D":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.595537,30.56632 ]
+    },
+    "properties": {
+    "A":1546409,
+    "B":"YMCA-Veterans Hill Elementary",
+    "C":"555 Limmer Loop Round Rock, Tx  78665",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.673864,30.499027 ]
+    },
+    "properties": {
+    "A":248529,
+    "B":"YMCA-Voigt",
+    "C":"1201 Cushing Dr Round Rock, Tx  78664",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.870241,30.547881 ]
+    },
+    "properties": {
+    "A":531800,
+    "B":"YMCA-Whitestone Elementary",
+    "C":"2000 Crystal Falls Pkwy Leander, Tx  78641",
+    "D":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.866148,30.53831 ]
+    },
+    "properties": {
+    "A":862780,
+    "B":"YMCA-Winkley Elementary",
+    "C":"2100 Pow Wow Leander, Tx  78641",
+    "D":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.769483,30.225612 ]
+    },
+    "properties": {
+    "A":1670841,
+    "B":"YMOK Daycare Austin LLC",
+    "C":"510 Clarke St Austin, Tx  78745",
+    "D":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.08449,30.192814 ]
+    },
+    "properties": {
+    "A":540859,
+    "B":"Your Growing Child",
+    "C":"100 Commons Rd Ste 3 Dripping Springs, Tx  78620",
+    "D":0
+    }
+  }
+]
+}
