@@ -1,0 +1,1115 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36044,30.308019 ]
+    },
+    "properties": {
+    "license":1688733,
+    "name":"Achieve Learning Child Development Center",
+    "address":"509 M L K DR ",
+    "City":"ELGIN",
+    "State":"TX",
+    "Zip":78621,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":27,
+    "Accuracy Score":0.33,
+    "Accuracy Type":"place",
+    "Number":null,
+    "Street":"",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Elgin",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78621,
+    "Country":"US",
+    "Source":"TIGER/Line® dataset from the US Census Bureau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.321525,30.128569 ]
+    },
+    "properties": {
+    "license":1188386,
+    "name":"Bastrop Child Development Center",
+    "address":"603 MESQUITE ST ",
+    "City":"BASTROP",
+    "State":"TX",
+    "Zip":78602,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":42,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":603,
+    "Street":"Mesquite St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Bastrop",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78602,
+    "Country":"US",
+    "Source":"Bastrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.317107,30.107166 ]
+    },
+    "properties": {
+    "license":1690170,
+    "name":"Bastrop First YMCA",
+    "address":"609 PECAN ST ",
+    "City":"BASTROP",
+    "State":"TX",
+    "Zip":78602,
+    "County":"BASTROP",
+    "type":"Licensed Center - School Age Program",
+    "Capacity":58,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":609,
+    "Street":"Pecan St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Bastrop",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78602,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.430071,30.132387 ]
+    },
+    "properties": {
+    "license":1709800,
+    "name":"Bastrop ISD Child Care @ Bluebonnet Elementary",
+    "address":"416 FM 1209 ",
+    "City":"BASTROP",
+    "State":"TX",
+    "Zip":78602,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":34,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":416,
+    "Street":"Farm To Market Rd 1209",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Bastrop",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78602,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.499961,30.084169 ]
+    },
+    "properties": {
+    "license":1512041,
+    "name":"BISD Community Service STARS Cedar Creek Elementary",
+    "address":"5582 FM 535 ",
+    "City":"CEDAR CREEK",
+    "State":"TX",
+    "Zip":78612,
+    "County":"BASTROP",
+    "type":"Licensed Center - School Age Program",
+    "Capacity":150,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":5582,
+    "Street":"Farm To Market Rd 535",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Creek",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78612,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.310167,30.10708 ]
+    },
+    "properties": {
+    "license":1507631,
+    "name":"BISD Community Services - STARS Emile Elementary School",
+    "address":"601 MARTIN LUTHER KING DR ",
+    "City":"BASTROP",
+    "State":"TX",
+    "Zip":78602,
+    "County":"BASTROP",
+    "type":"Licensed Center - School Age Program",
+    "Capacity":150,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":601,
+    "Street":"Martin Luther King Jr Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Bastrop",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78602,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.314711,30.113041 ]
+    },
+    "properties": {
+    "license":838904,
+    "name":"BISD Community Services - STARS Mina Elementary School",
+    "address":"1203 HILL ST ",
+    "City":"BASTROP",
+    "State":"TX",
+    "Zip":78602,
+    "County":"BASTROP",
+    "type":"Licensed Center - Before/After School Program",
+    "Capacity":150,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1203,
+    "Street":"Hill St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Bastrop",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78602,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.451257,29.958806 ]
+    },
+    "properties": {
+    "license":1507635,
+    "name":"BISD Community Services - STARS Red Rock Elementary",
+    "address":"2401 FM 20 ",
+    "City":"RED ROCK",
+    "State":"TX",
+    "Zip":78662,
+    "County":"BASTROP",
+    "type":"Licensed Center - School Age Program",
+    "Capacity":75,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2401,
+    "Street":"Farm To Market Rd 20",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Red Rock",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78662,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.430071,30.132387 ]
+    },
+    "properties": {
+    "license":1507575,
+    "name":"BISD Community Services STARS Bluebonnet Elementary School",
+    "address":"416 FM 1209 ",
+    "City":"BASTROP",
+    "State":"TX",
+    "Zip":78602,
+    "County":"BASTROP",
+    "type":"Licensed Center - School Age Program",
+    "Capacity":150,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":416,
+    "Street":"Farm To Market Rd 1209",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Bastrop",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78602,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.280214,30.177341 ]
+    },
+    "properties": {
+    "license":1507629,
+    "name":"BISD Community Services STARS Lost Pines Elementary School",
+    "address":"151 TIGER WOODS DR ",
+    "City":"BASTROP",
+    "State":"TX",
+    "Zip":78602,
+    "County":"BASTROP",
+    "type":"Licensed Center - School Age Program",
+    "Capacity":75,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":151,
+    "Street":"Tiger Woods Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Bastrop",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78602,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.499961,30.084169 ]
+    },
+    "properties": {
+    "license":820191,
+    "name":"BISD District Day Care @ Cedar Creek Elem.",
+    "address":"5582 F M 535 ",
+    "City":"CEDAR CREEK",
+    "State":"TX",
+    "Zip":78612,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":34,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":5582,
+    "Street":"Farm To Market Rd 535",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Creek",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78612,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.310167,30.10708 ]
+    },
+    "properties": {
+    "license":840553,
+    "name":"BISD District Day Care @Emile",
+    "address":"601 MARTIN LUTHER KING DR ",
+    "City":"BASTROP",
+    "State":"TX",
+    "Zip":78602,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":88,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":601,
+    "Street":"Martin Luther King Jr Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Bastrop",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78602,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.314806,30.111047 ]
+    },
+    "properties": {
+    "license":862842,
+    "name":"Busy Bee  Learning Center",
+    "address":"1003 HILL ST ",
+    "City":"BASTROP",
+    "State":"TX",
+    "Zip":78602,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":31,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1003,
+    "Street":"Hill St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Bastrop",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78602,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.403698,30.111296 ]
+    },
+    "properties": {
+    "license":1627657,
+    "name":"Busy Bee Academy",
+    "address":"1116 HIGHWAY 71 W ",
+    "City":"BASTROP",
+    "State":"TX",
+    "Zip":78602,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":130,
+    "Accuracy Score":0.9,
+    "Accuracy Type":"rooftop",
+    "Number":1116,
+    "Street":"W Sh 71",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Bastrop",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78602,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.318046,30.123142 ]
+    },
+    "properties": {
+    "license":1710992,
+    "name":"Cheryl Kruckeberg",
+    "address":"2000 PECAN ST ",
+    "City":"BASTROP",
+    "State":"TX",
+    "Zip":78602,
+    "County":"BASTROP",
+    "type":"Licensed Child-Care Home",
+    "Capacity":12,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2000,
+    "Street":"Pecan St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Bastrop",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78602,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.47851,30.092923 ]
+    },
+    "properties": {
+    "license":1709266,
+    "name":"Children's Town Center",
+    "address":"112 VOSS PKWY ",
+    "City":"CEDAR CREEK",
+    "State":"TX",
+    "Zip":78612,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":48,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":112,
+    "Street":"Voss Pkwy",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Creek",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78612,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.358739,30.074895 ]
+    },
+    "properties": {
+    "license":1696841,
+    "name":"Cornerstone Christian Academy",
+    "address":"125 LOWER RED ROCK RD ",
+    "City":"BASTROP",
+    "State":"TX",
+    "Zip":78602,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":34,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":125,
+    "Street":"Lower Red Rock Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Bastrop",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78602,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37793,30.352223 ]
+    },
+    "properties": {
+    "license":840589,
+    "name":"Elgin ISD Child Development Center",
+    "address":"1002 N AVENUE C ",
+    "City":"ELGIN",
+    "State":"TX",
+    "Zip":78621,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":90,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1002,
+    "Street":"N Ave C",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Elgin",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78621,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.310167,30.10708 ]
+    },
+    "properties": {
+    "license":1358412,
+    "name":"Emile Head Start Center",
+    "address":"601 MARTIN LUTHER KING DR ",
+    "City":"BASTROP",
+    "State":"TX",
+    "Zip":78602,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":37,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":601,
+    "Street":"Martin Luther King Jr Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Bastrop",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78602,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.155129,30.007182 ]
+    },
+    "properties": {
+    "license":900008,
+    "name":"FBC Sonshine School",
+    "address":"304 HUDGINS ST ",
+    "City":"SMITHVILLE",
+    "State":"TX",
+    "Zip":78957,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":110,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":304,
+    "Street":"Hudgins St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Smithville",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78957,
+    "Country":"US",
+    "Source":"Bastrop"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.148576,30.005031 ]
+    },
+    "properties": {
+    "license":833919,
+    "name":"Grace Lutheran Learning Center",
+    "address":"401 WILKES ST ",
+    "City":"SMITHVILLE",
+    "State":"TX",
+    "Zip":78957,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":88,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":401,
+    "Street":"Wilkes St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Smithville",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78957,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.319051,30.112908 ]
+    },
+    "properties": {
+    "license":111750,
+    "name":"Hideout Christian Learning Center",
+    "address":"1202 WATER ST ",
+    "City":"BASTROP",
+    "State":"TX",
+    "Zip":78602,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":128,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1202,
+    "Street":"Water St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Bastrop",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78602,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.451201,30.12467 ]
+    },
+    "properties": {
+    "license":1649512,
+    "name":"Honeysuckle Schoolhouse",
+    "address":"434 LEISURE LN # AB",
+    "City":"CEDAR CREEK",
+    "State":"TX",
+    "Zip":78612,
+    "County":"BASTROP",
+    "type":"Licensed Child-Care Home",
+    "Capacity":12,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":434,
+    "Street":"Leisure Ln",
+    "Unit Type":"Unit",
+    "Unit Number":"AB",
+    "City":"Cedar Creek",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78612,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.32775,30.10413 ]
+    },
+    "properties": {
+    "license":1260869,
+    "name":"Little Sheep Learning Center",
+    "address":"202 HIGHWAY 71 W ",
+    "City":"BASTROP",
+    "State":"TX",
+    "Zip":78602,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":115,
+    "Accuracy Score":0.9,
+    "Accuracy Type":"rooftop",
+    "Number":202,
+    "Street":"W Sh 71",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Bastrop",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78602,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.280214,30.177341 ]
+    },
+    "properties": {
+    "license":841188,
+    "name":"Lost Pines Head Start Program",
+    "address":"151 TIGER WOODS DR ",
+    "City":"BASTROP",
+    "State":"TX",
+    "Zip":78602,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":40,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":151,
+    "Street":"Tiger Woods Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Bastrop",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78602,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.400286,30.362781 ]
+    },
+    "properties": {
+    "license":839379,
+    "name":"Mabrys Munchkins Learning Center",
+    "address":"1512 N AVENUE C ",
+    "City":"ELGIN",
+    "State":"TX",
+    "Zip":78621,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":68,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1512,
+    "Street":"N Ave C",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Elgin",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78621,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.342952,30.33548 ]
+    },
+    "properties": {
+    "license":249641,
+    "name":"Morgans Day Care",
+    "address":"1126 OLD MCDADE RD ",
+    "City":"ELGIN",
+    "State":"TX",
+    "Zip":78621,
+    "County":"BASTROP",
+    "type":"Licensed Child-Care Home",
+    "Capacity":12,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1126,
+    "Street":"Old Mcdade Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Elgin",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78621,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.380312,30.3438 ]
+    },
+    "properties": {
+    "license":1694926,
+    "name":"New Beginnings Child Development Cntr. LLC",
+    "address":"700 BULL RUN ",
+    "City":"ELGIN",
+    "State":"TX",
+    "Zip":78621,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":81,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":700,
+    "Street":"Bull Run Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Elgin",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78621,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.285758,30.09669 ]
+    },
+    "properties": {
+    "license":1319027,
+    "name":"Robin LeFrance",
+    "address":"122 KUKUI CT ",
+    "City":"BASTROP",
+    "State":"TX",
+    "Zip":78602,
+    "County":"BASTROP",
+    "type":"Registered Child-Care Home",
+    "Capacity":12,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":122,
+    "Street":"Kukui Ct",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Bastrop",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78602,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.594434,30.103999 ]
+    },
+    "properties": {
+    "license":244917,
+    "name":"Sharon Clark",
+    "address":"125 MEADOW VIEW BLVD ",
+    "City":"DEL VALLE",
+    "State":"TX",
+    "Zip":78617,
+    "County":"BASTROP",
+    "type":"Registered Child-Care Home",
+    "Capacity":12,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":125,
+    "Street":"Meadow View Blvd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Del Valle",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78617,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.171436,30.009874 ]
+    },
+    "properties": {
+    "license":139550,
+    "name":"Smithville Head Start",
+    "address":"308 SW 4TH ST ",
+    "City":"SMITHVILLE",
+    "State":"TX",
+    "Zip":78957,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":37,
+    "Accuracy Score":0.7,
+    "Accuracy Type":"rooftop",
+    "Number":308,
+    "Street":"4th Ave",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Smithville",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78957,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.566581,30.135361 ]
+    },
+    "properties": {
+    "license":505171,
+    "name":"Stony Point Head Start Ctr",
+    "address":"108 POINT DR ",
+    "City":"DEL VALLE",
+    "State":"TX",
+    "Zip":78617,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":60,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":108,
+    "Street":"Point Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Del Valle",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78617,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.426134,30.110624 ]
+    },
+    "properties": {
+    "license":863455,
+    "name":"Sweetpea Learning Center",
+    "address":"104 UNION CHAPEL RD ",
+    "City":"CEDAR CREEK",
+    "State":"TX",
+    "Zip":78612,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":62,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":104,
+    "Street":"Union Chapel Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Creek",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78612,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.315443,30.10438 ]
+    },
+    "properties": {
+    "license":1674673,
+    "name":"Terri's Tiny Tots Learning Center",
+    "address":"1007 COLLEGE ST ",
+    "City":"BASTROP",
+    "State":"TX",
+    "Zip":78602,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":21,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1007,
+    "Street":"College St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Bastrop",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78602,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.353334,30.338508 ]
+    },
+    "properties": {
+    "license":539542,
+    "name":"Tree House Incorporated",
+    "address":"989 OLD MCDADE RD ",
+    "City":"ELGIN",
+    "State":"TX",
+    "Zip":78621,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":135,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":989,
+    "Street":"Old Mcdade Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Elgin",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78621,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.347544,30.115339 ]
+    },
+    "properties": {
+    "license":1511507,
+    "name":"Wee Care Learning Center",
+    "address":"159 SETTLEMENT DR ",
+    "City":"BASTROP",
+    "State":"TX",
+    "Zip":78602,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":328,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":159,
+    "Street":"Settlement Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Bastrop",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78602,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.430427,30.128792 ]
+    },
+    "properties": {
+    "license":833403,
+    "name":"Wiggles n Giggles Child Development Center LLC",
+    "address":"374 F M 1209 ",
+    "City":"BASTROP",
+    "State":"TX",
+    "Zip":78602,
+    "County":"BASTROP",
+    "type":"Licensed Center - Child Care Program",
+    "Capacity":50,
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":374,
+    "Street":"Farm To Market Rd 1209",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Bastrop",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78602,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  }
+]
+}
