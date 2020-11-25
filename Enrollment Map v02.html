@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>RCA CCS</title>
+    <script src=https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js></script>
+    <link
+      href=https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css
+      rel="stylesheet"/>
+<div class = 'map'></div>
+<div class='map-overlay' id='features'><h2><strong>Center Name</h2></strong>
+<div id='pd'><p>Hover over a Center!</p></div></div>
+<div class = 'map-overlay' id='feature'><h2><strong>Children Served</h2></strong>
+<div id='pa'><p></p></div></div>
+<div class='map-overlay' id='legend'></div>
+<style>
+#features {  
+  top: 0;
+  height: 500px;
+  margin-top: 20px;
+  width: 350px;
+}
+#feature {
+  top: 0;
+  height: 250px;
+  margin-top: 250px;
+  width: 350px;
+}
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 80%;
+}
+.map-overlay {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background: rgba(255, 255, 255, 0.8);
+  margin-right: 20px;
+  font-family: Arial, sans-serif;
+  overflow: auto;
+  border-radius: 2px;
+}
+
+#legend {
+  padding: 10px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  line-height: 18px;
+  height: 375px;
+  margin-bottom: 40px;
+  width: 300px;
+  margin-right: 20px;
+}
+
+.legend-key {
+  display: inline-block;
+  border-radius: 20%;
+  width: 10px;
+  height: 10px;
+  margin-right: 15px;
+}
+#container {
+  width: 1540px;
+  height: 840px
+  margin: 15px 0px;
+  display: grid;
+}
+h2{
+  margin: 3.5px;
+  font-size: 1em;
+}
+h4{
+  margin:2.5px;
+  font-size: 1.1em;
+}
+</style>
+</head>
+	<body>
+		<header>
+        <h2>RCA Child Care Services - Enrollments </h2>
+		</header>
+<div id="container">
+<div id="map">
+</div></div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoiYW1leWVtODgiLCJhIjoiY2toZXgxejh0MGpjMjMwczFvODRwcnI1ciJ9.Sqh6wxJiI340cPWT_WB8rw';
+    const map = new mapboxgl.Map({
+        container: 'map', // container id
+        style: 'mapbox://styles/ameyem88/ckg83mfuy0wy319mpj0psx70m', // stylesheet location 
+        center: [-97.7431, 30.2672], // starting position [lng, lat]
+        zoom: 8, // starting zoom
+    });
+
+
+//Create Map Load Functions - Legend and Mouse Hover
+map.on('load', function() {
+	map.getCanvas().style.cursor = 'default';
+
+	// Legend and Color Coding
+	var layers = ['# of Children Served in Zip','','Provider Physical Location','','Zoomed Out - Providers per Zip Code','1-6 Providers', '7-12 Providers', '13-21 Providers','22+ Providers','','*# of Children Served in zip are verified to reside in our physical service area unless authorized by DFPS*'];
+	var colors = ['#0b19e0','', '#A91101','','','#3eb489', '#ffc1cc', '#b19cd9', '#431c53'];
+	for (i = 0; i < layers.length; i++) {
+ 	var layer = layers[i];
+  	var color = colors[i];
+  	var item = document.createElement('div');
+  	var key = document.createElement('span');
+  	key.className = 'legend-key';
+  	key.style.backgroundColor = color;
+
+  	var value = document.createElement('span');
+  	value.innerHTML = layer;
+  	item.appendChild(key);
+  	item.appendChild(value);
+  	legend.appendChild(item);
+			};
+// Add GEOJSON Source Layer for Centers
+map.addSource('centers', {
+  type: 'geojson',
+  data: 'https://admilber.github.io/BR/providerreferrals.geojson'
+		});
+//Add GEOJSON Source Layer for Clients
+map.addSource('children',{
+  type: 'geojson',
+  data: 'https://admilber.github.io/BR/230data.geojson'
+		});
+
+
+//Adding GEOJSON layer with minimum zoom for render
+map.addLayer({
+  "id": "center_name",
+  "type": "circle",
+  "source": "centers",
+  "minzoom": 10,
+  "paint": {
+  "circle-opacity":0.0
+	}
+})
+map.addLayer({
+  "id": "230",
+  "type": "circle",
+  "source": "children",
+  "minzoom": 3,
+  "paint": {
+  "circle-opacity":0.0
+	}
+});
+
+//Hover Over function
+map.on('mousemove', function(e) { 
+	var feature = map.queryRenderedFeatures(e.point, { 
+	layers:['center_name']
+	});
+		if (feature.length > 0) {
+    	document.getElementById('pd').innerHTML = '<h3><strong>' + feature[0].properties.B + '</strong></h3><p><strong><em>' + '<h4><strong>' + feature[0].properties.C + '</strong></h4></p>' + '<strong><h4><p>' + feature[0].properties.D 		+ " child/ren served" + '</strong></h4></p>'
+	}   else {
+    	document.getElementById('pd').innerHTML = '<p>Hover over a center!</p>';
+ 		}
+
+	})
+//Mousemove for Child Layer
+map.on('mousemove', function(e) { 
+	var features = map.queryRenderedFeatures(e.point, { 
+	layers:['230']
+	});
+		if (features.length > 0) {
+    	document.getElementById('pa').innerHTML = '<h3><strong>' + features[0].properties.children + " child/ren" + '</strong></h3><p><strong><em>' + '<h3>' + " served in zip code " + features[0].properties.zip + '</h3>'
+  	}   else {
+    	document.getElementById('pa').innerHTML = '<p>Hover over a "# of Children Served" indicator.</p>';
+  		}
+
+	});
+});
+;
+</script>
+  </body>
+</html>
