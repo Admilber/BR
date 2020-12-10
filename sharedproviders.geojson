@@ -1,0 +1,5648 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.611705,30.439028 ]
+    },
+    "properties": {
+    "License":976846,
+    "name":"1st Step Early Learning Center",
+    "Address":"401 F M 685 Ste 104",
+    "VenPCSZ":"PFLUGERVILLE, TX  78660",
+    "capacity":"49",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":401,
+    "Street":"Farm To Market Rd 685th Rd",
+    "Unit Type":"Ste",
+    "Unit Number":"104",
+    "City":"Pflugerville",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78660,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.781067,30.452272 ]
+    },
+    "properties": {
+    "License":1480666,
+    "name":"1st Step Early Learning Center",
+    "Address":"9112 Anderson Mill Rd # B-400",
+    "VenPCSZ":"AUSTIN, TX  78729",
+    "capacity":"48",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":9112,
+    "Street":"Anderson Mill Rd",
+    "Unit Type":"#",
+    "Unit Number":"B 400",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78729,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.491091,30.35119 ]
+    },
+    "properties": {
+    "License":861370,
+    "name":"ABCs and 123s Infant and Child Care Center LP",
+    "Address":"13419 Hwy 290 E Bldg 5",
+    "VenPCSZ":"MANOR, TX  78653",
+    "capacity":"100",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":0.9,
+    "Accuracy Type":"range_interpolation",
+    "Number":13419,
+    "Street":"US Hwy 290",
+    "Unit Type":"Bldg",
+    "Unit Number":"5",
+    "City":"Manor",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78653,
+    "Country":"US",
+    "Source":"TIGER/Line® dataset from the US Census Bureau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.607201,30.448398 ]
+    },
+    "properties": {
+    "License":1672633,
+    "name":"Abacus Childrens Academy",
+    "Address":"1226 Fm 685",
+    "VenPCSZ":"PFLUGERVILLE, TX  78660",
+    "capacity":"65",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1226,
+    "Street":"Farm To Market Rd 685th Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Pflugerville",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78660,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.36044,30.308019 ]
+    },
+    "properties": {
+    "License":1688733,
+    "name":"Achieve Learning Child Development Center",
+    "Address":"509 M L K Dr",
+    "VenPCSZ":"ELGIN, TX  78621",
+    "capacity":"27",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":0.33,
+    "Accuracy Type":"place",
+    "Number":null,
+    "Street":"",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Elgin",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78621,
+    "Country":"US",
+    "Source":"TIGER/Line® dataset from the US Census Bureau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.792471,30.184753 ]
+    },
+    "properties": {
+    "License":1676882,
+    "name":"Angels Care and Learning Center",
+    "Address":"7806 S 1St St",
+    "VenPCSZ":"AUSTIN, TX  78745",
+    "capacity":"90",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":7806,
+    "Street":"S 1st St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78745,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.657816,30.466352 ]
+    },
+    "properties": {
+    "License":1522418,
+    "name":"Ants To Elephants Daycare",
+    "Address":"16708 Picadilly Ct Ste 105",
+    "VenPCSZ":"ROUND ROCK, TX  78664",
+    "capacity":"63",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":16708,
+    "Street":"Picadilly Ct",
+    "Unit Type":"Ste",
+    "Unit Number":"105",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78664,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.561606,30.475467 ]
+    },
+    "properties": {
+    "License":1028987,
+    "name":"Ashford Montessori",
+    "Address":"20301 Jackies Ranch Rd",
+    "VenPCSZ":"Pflugerville, TX  78660",
+    "capacity":"150",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":20301,
+    "Street":"Jackies Ranch Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Pflugerville",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78660,
+    "Country":"US",
+    "Source":"City of Pflugerville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.776097,30.205991 ]
+    },
+    "properties": {
+    "License":838499,
+    "name":"Austin South Christian Academy",
+    "Address":"200B W Stassney Ln",
+    "VenPCSZ":"AUSTIN, TX  78745",
+    "capacity":"86",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":200,
+    "Street":"W Stassney Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78745,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.896167,29.947017 ]
+    },
+    "properties": {
+    "License":1700173,
+    "name":"Blanco Vista EAC YMCA",
+    "Address":"2951 Blanco Vista Blvd",
+    "VenPCSZ":"SAN MARCOS, TX  78666",
+    "capacity":"85",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2951,
+    "Street":"Blanco Vista Blvd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"San Marcos",
+    "State":"TX",
+    "County":"Hays County",
+    "Zip":78666,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.752466,30.157401 ]
+    },
+    "properties": {
+    "License":1700166,
+    "name":"Blazier EAC YMCA",
+    "Address":"8601 Vertex Blvd",
+    "VenPCSZ":"AUSTIN, TX  78744",
+    "capacity":"119",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":8601,
+    "Street":"Vertex Blvd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78744,
+    "Country":"US",
+    "Source":"City of Austin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.646061,30.494992 ]
+    },
+    "properties": {
+    "License":902484,
+    "name":"Blue Diamond Montessori Center",
+    "Address":"2050 Double Creek Dr Ste 101",
+    "VenPCSZ":"ROUND ROCK, TX  78664",
+    "capacity":"210",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2050,
+    "Street":"Double Creek Dr",
+    "Unit Type":"Ste",
+    "Unit Number":"101",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78664,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.706259,30.367905 ]
+    },
+    "properties": {
+    "License":1515161,
+    "name":"Bright Beginnings",
+    "Address":"9414 Parkfield Dr",
+    "VenPCSZ":"Austin, TX  78758",
+    "capacity":"100",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":9414,
+    "Street":"Parkfield Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78758,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.717516,30.389654 ]
+    },
+    "properties": {
+    "License":550239,
+    "name":"Bright Horizons Family Center",
+    "Address":"2411 W Braker Ln",
+    "VenPCSZ":"AUSTIN, TX  78758",
+    "capacity":"194",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2411,
+    "Street":"W Braker Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78758,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.830935,30.446694 ]
+    },
+    "properties": {
+    "License":1578325,
+    "name":"Bright Kids Child Development Center",
+    "Address":"10713 N Fm 620 Ste 101",
+    "VenPCSZ":"AUSTIN, TX  78726",
+    "capacity":"76",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":10713,
+    "Street":"N FM 620th Rd",
+    "Unit Type":"Ste",
+    "Unit Number":"101",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78726,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.791583,30.528334 ]
+    },
+    "properties": {
+    "License":1150286,
+    "name":"Bright Star Academy Schools",
+    "Address":"801 N Vista Ridge Blvd",
+    "VenPCSZ":"Cedar Park, TX  78613",
+    "capacity":"346",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":801,
+    "Street":"N Vista Ridge Blvd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Park",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78613,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.818301,30.502454 ]
+    },
+    "properties": {
+    "License":1564976,
+    "name":"Bright Start Learning Center",
+    "Address":"751 S Bell Blvd",
+    "VenPCSZ":"CEDAR PARK, TX  78613",
+    "capacity":"140",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":751,
+    "Street":"S Bell Blvd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Park",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78613,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.820761,30.094547 ]
+    },
+    "properties": {
+    "License":1700169,
+    "name":"Buda Elementary EAC YMCA",
+    "Address":"1060 Old San Antonio Rd",
+    "VenPCSZ":"BUDA, TX  78610",
+    "capacity":"85",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1060,
+    "Street":"Old San Antonio Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Buda",
+    "State":"TX",
+    "County":"Hays County",
+    "Zip":78610,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.636589,30.464517 ]
+    },
+    "properties": {
+    "License":1700721,
+    "name":"Butterfly Schoolhouse",
+    "Address":"816 Bushmills Ct",
+    "VenPCSZ":"PFLUGERVILLE, TX  78660",
+    "capacity":"12",
+    "Type":"Licensed Child-Care Home",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":816,
+    "Street":"Bushmills Ct",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Pflugerville",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78660,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.809488,30.494793 ]
+    },
+    "properties": {
+    "License":150246006,
+    "name":"CAMP TWIN LAKES-YMCA",
+    "Address":"204 East Little Elm Trail",
+    "VenPCSZ":"CEDAR PARK, TX  78613",
+    "capacity":"Not on DFPS",
+    "Type":"Licensed Youth Camps",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":204,
+    "Street":"E Little Elm Trl",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Park",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78613,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.827855,30.006138 ]
+    },
+    "properties": {
+    "License":1691955,
+    "name":"CEI Preschool Spanish Immersion School",
+    "Address":"2381 Bebee Rd",
+    "VenPCSZ":"KYLE, TX  78640",
+    "capacity":"60",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2381,
+    "Street":"Bebee Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Kyle",
+    "State":"TX",
+    "County":"Hays County",
+    "Zip":78640,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.71865,30.421043 ]
+    },
+    "properties": {
+    "License":549277,
+    "name":"Cadence Academy",
+    "Address":"12223 Cassady Dr",
+    "VenPCSZ":"Austin, TX  78727",
+    "capacity":"265",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":12223,
+    "Street":"Cassady Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78727,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.761727,30.005116 ]
+    },
+    "properties": {
+    "License":1700363,
+    "name":"Camino Real EAC YMCA",
+    "Address":"170 Las Brisas Blvd",
+    "VenPCSZ":"NIEDERWALD, TX  78640",
+    "capacity":"48",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":170,
+    "Street":"Las Brisas Blvd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Kyle",
+    "State":"TX",
+    "County":"Hays County",
+    "Zip":78640,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.638377,30.398405 ]
+    },
+    "properties": {
+    "License":840133,
+    "name":"Capital City Kids Daycare",
+    "Address":"13107 Dessau Rd",
+    "VenPCSZ":"Austin, TX  78754",
+    "capacity":"50",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":13107,
+    "Street":"Dessau Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78754,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.897269,30.095694 ]
+    },
+    "properties": {
+    "License":1193127,
+    "name":"Carpenter Hill YMCA",
+    "Address":"4410 Ranch Rd 967",
+    "VenPCSZ":"BUDA, TX  78610",
+    "capacity":"140",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"range_interpolation",
+    "Number":4410,
+    "Street":"Ranch Rd 967",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Buda",
+    "State":"TX",
+    "County":"Hays County",
+    "Zip":78610,
+    "Country":"US",
+    "Source":"TIGER/Line® dataset from the US Census Bureau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.822269,30.281275 ]
+    },
+    "properties": {
+    "License":559508,
+    "name":"Central Child Development Center",
+    "Address":"1201 S Capital Of Texas Hwy",
+    "VenPCSZ":"WEST LAKE HILLS, TX  78746",
+    "capacity":"153",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"range_interpolation",
+    "Number":1201,
+    "Street":"S Capital Of Texas Hwy",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"West Lake Hills",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78746,
+    "Country":"US",
+    "Source":"TIGER/Line® dataset from the US Census Bureau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.745185,30.298414 ]
+    },
+    "properties": {
+    "License":1619697,
+    "name":"Child Craft School",
+    "Address":"800 W 30Th St",
+    "VenPCSZ":"AUSTIN, TX  78705",
+    "capacity":"99",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":800,
+    "Street":"W 30th St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78705,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.613909,30.344266 ]
+    },
+    "properties": {
+    "License":525720,
+    "name":"Childrens Courtyard",
+    "Address":"11012 Harris Branch Pkwy",
+    "VenPCSZ":"AUSTIN, TX  78754",
+    "capacity":"224",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":11012,
+    "Street":"Harris Branch Pkwy",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78754,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.707005,30.414996 ]
+    },
+    "properties": {
+    "License":551505,
+    "name":"Childrens Courtyard",
+    "Address":"12336 N Mopac Expy",
+    "VenPCSZ":"AUSTIN, TX  78758",
+    "capacity":"326",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"range_interpolation",
+    "Number":12336,
+    "Street":"N Mo Pac Expy",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78758,
+    "Country":"US",
+    "Source":"TIGER/Line® dataset from the US Census Bureau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.705977,30.398114 ]
+    },
+    "properties": {
+    "License":811682,
+    "name":"Childrens Courtyard",
+    "Address":"11718 Metric Blvd Bldg C",
+    "VenPCSZ":"AUSTIN, TX  78758",
+    "capacity":"332",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":11718,
+    "Street":"Metric Blvd",
+    "Unit Type":"Bldg",
+    "Unit Number":"C",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78758,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.861883,30.228853 ]
+    },
+    "properties": {
+    "License":819473,
+    "name":"Childrens Courtyard",
+    "Address":"5914 W William Cannon Dr",
+    "VenPCSZ":"AUSTIN, TX  78749",
+    "capacity":"357",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":5914,
+    "Street":"W William Cannon Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78749,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.825134,30.480536 ]
+    },
+    "properties": {
+    "License":834332,
+    "name":"Childrens Courtyard - Lakeline BLVD",
+    "Address":"2001 S Lakeline Blvd",
+    "VenPCSZ":"CEDAR PARK, TX  78613",
+    "capacity":"192",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2001,
+    "Street":"S Lakeline Blvd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Park",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78613,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.612016,30.496571 ]
+    },
+    "properties": {
+    "License":554964,
+    "name":"Childrens Courtyard 4",
+    "Address":"3801 Gattis School Rd",
+    "VenPCSZ":"Round Rock, TX  78664",
+    "capacity":"346",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":3801,
+    "Street":"Gattis School Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78664,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.655022,30.482328 ]
+    },
+    "properties": {
+    "License":557335,
+    "name":"Childrens Courtyard 5",
+    "Address":"2960 Jazz St",
+    "VenPCSZ":"Round Rock, TX  78664",
+    "capacity":"325",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2960,
+    "Street":"Jazz St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78664,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.845081,30.528588 ]
+    },
+    "properties": {
+    "License":1521046,
+    "name":"Childrens Lighthouse",
+    "Address":"1801 Bagdad Rd",
+    "VenPCSZ":"Cedar Park, TX  78613",
+    "capacity":"200",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1801,
+    "Street":"Bagdad Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Park",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78613,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.810508,30.174388 ]
+    },
+    "properties": {
+    "License":234172,
+    "name":"Chisholm La Petite Academy",
+    "Address":"9315 Chisholm Ln",
+    "VenPCSZ":"Austin, TX  78748",
+    "capacity":"142",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":9315,
+    "Street":"Chisholm Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78748,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.764898,30.432492 ]
+    },
+    "properties": {
+    "License":1027406,
+    "name":"Club Z INC",
+    "Address":"12741 Research Blvd Ste 200",
+    "VenPCSZ":"AUSTIN, TX  78759",
+    "capacity":"60",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"range_interpolation",
+    "Number":12741,
+    "Street":"Research Blvd",
+    "Unit Type":"Ste",
+    "Unit Number":"200",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78759,
+    "Country":"US",
+    "Source":"TIGER/Line® dataset from the US Census Bureau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.794911,30.186751 ]
+    },
+    "properties": {
+    "License":1662875,
+    "name":"Club Z INC",
+    "Address":"7612 Cooper Ln",
+    "VenPCSZ":"AUSTIN, TX  78745",
+    "capacity":"43",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":7612,
+    "Street":"Cooper Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78745,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.673191,29.816813 ]
+    },
+    "properties": {
+    "License":1579836,
+    "name":"Country Breeze Learning Center",
+    "Address":"7136 S Hwy 183",
+    "VenPCSZ":"LOCKHART, TX  78644",
+    "capacity":"56",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":7136,
+    "Street":"S US 183 Hwy",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Lockhart",
+    "State":"TX",
+    "County":"Caldwell County",
+    "Zip":78644,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.86565,30.229929 ]
+    },
+    "properties": {
+    "License":501647,
+    "name":"Country Home Learning Center 7 LTD",
+    "Address":"6900 Escarpment Blvd",
+    "VenPCSZ":"AUSTIN, TX  78749",
+    "capacity":"310",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":6900,
+    "Street":"Escarpment Blvd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78749,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.781312,30.439942 ]
+    },
+    "properties": {
+    "License":520322,
+    "name":"Country Home Learning Center 8",
+    "Address":"13120 N Hwy 183",
+    "VenPCSZ":"AUSTIN, TX  78750",
+    "capacity":"420",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":13120,
+    "Street":"N US 183 Hwy",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78750,
+    "Country":"US",
+    "Source":"Williamson"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.545883,30.545032 ]
+    },
+    "properties": {
+    "License":1083626,
+    "name":"Creative Kids Preschool",
+    "Address":"208 Highway 79",
+    "VenPCSZ":"HUTTO, TX  78634",
+    "capacity":"62",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":208,
+    "Street":"N FM 1660",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Hutto",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78634,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.630923,30.445078 ]
+    },
+    "properties": {
+    "License":1508669,
+    "name":"Creative Kids Preschool IV",
+    "Address":"1204 Pecan St W",
+    "VenPCSZ":"PFLUGERVILLE, TX  78660",
+    "capacity":"51",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1204,
+    "Street":"W Pecan St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Pflugerville",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78660,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.499674,30.350862 ]
+    },
+    "properties": {
+    "License":1478766,
+    "name":"Creative Learning Center",
+    "Address":"11401 Us Highway 290 E Ste B",
+    "VenPCSZ":"MANOR, TX  78653",
+    "capacity":"160",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":0.9,
+    "Accuracy Type":"range_interpolation",
+    "Number":11401,
+    "Street":"US Hwy 290",
+    "Unit Type":"Ste",
+    "Unit Number":"B",
+    "City":"Manor",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78653,
+    "Country":"US",
+    "Source":"TIGER/Line® dataset from the US Census Bureau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.570771,30.518962 ]
+    },
+    "properties": {
+    "License":1679899,
+    "name":"Creative Learning Center",
+    "Address":"1527 Chris Kelley Blvd",
+    "VenPCSZ":"HUTTO, TX  78634",
+    "capacity":"145",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1527,
+    "Street":"Chris Kelley Blvd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Hutto",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78634,
+    "Country":"US",
+    "Source":"Williamson"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.806215,30.210107 ]
+    },
+    "properties": {
+    "License":1699997,
+    "name":"Cunningham EAC YMCA",
+    "Address":"2200 Berkeley Ave",
+    "VenPCSZ":"AUSTIN, TX  78745",
+    "capacity":"140",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2200,
+    "Street":"Berkeley Ave",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78745,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.67536,30.545734 ]
+    },
+    "properties": {
+    "License":1534236,
+    "name":"Daily Bread Christian Learning Center",
+    "Address":"3200 Sunrise Rd",
+    "VenPCSZ":"ROUND ROCK, TX  78665",
+    "capacity":"102",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":3200,
+    "Street":"Sunrise Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78665,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.763842,30.235162 ]
+    },
+    "properties": {
+    "License":1699900,
+    "name":"Dawson EAC YMCA",
+    "Address":"3001 S 1St St",
+    "VenPCSZ":"AUSTIN, TX  78704",
+    "capacity":"63",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":3001,
+    "Street":"S 1st St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78704,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.613395,30.17599 ]
+    },
+    "properties": {
+    "License":1048067,
+    "name":"Del Valle Wee Cardinal Child Development Center",
+    "Address":"5301 Ross Rd Ste G",
+    "VenPCSZ":"DEL VALLE, TX  78617",
+    "capacity":"203",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":5301,
+    "Street":"Ross Rd",
+    "Unit Type":"Ste",
+    "Unit Number":"G",
+    "City":"Del Valle",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78617,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.37793,30.352223 ]
+    },
+    "properties": {
+    "License":840589,
+    "name":"Elgin ISD Child Development Center",
+    "Address":"1002 N Avenue C",
+    "VenPCSZ":"ELGIN, TX  78621",
+    "capacity":"90",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1002,
+    "Street":"N Ave C",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Elgin",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78621,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.873269,30.089238 ]
+    },
+    "properties": {
+    "License":1700163,
+    "name":"Elm Grove EAC YMCA",
+    "Address":"801 Fm 1626",
+    "VenPCSZ":"BUDA, TX  78610",
+    "capacity":"153",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":801,
+    "Street":"S FM 1626",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Buda",
+    "State":"TX",
+    "County":"Hays County",
+    "Zip":78610,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.604755,30.497953 ]
+    },
+    "properties": {
+    "License":881992,
+    "name":"Emerson Academy",
+    "Address":"1 Valley View Dr",
+    "VenPCSZ":"ROUND ROCK, TX  78664",
+    "capacity":"105",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1,
+    "Street":"Valley View Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78664,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.70317,30.223962 ]
+    },
+    "properties": {
+    "License":50203,
+    "name":"Escuela Montessor De Montopol",
+    "Address":"2013 Montopolis Dr",
+    "VenPCSZ":"Austin, TX  78741",
+    "capacity":"60",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2013,
+    "Street":"Montopolis Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78741,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.789024,30.15462 ]
+    },
+    "properties": {
+    "License":1576420,
+    "name":"First Class Child Development Center 3",
+    "Address":"1901 National Park Blvd",
+    "VenPCSZ":"AUSTIN, TX  78747",
+    "capacity":"99",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1901,
+    "Street":"National Park Blvd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78747,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.860421,30.002548 ]
+    },
+    "properties": {
+    "License":1700365,
+    "name":"Fuentes EAC YMCA",
+    "Address":"901 Philomena Dr",
+    "VenPCSZ":"KYLE, TX  78640",
+    "capacity":"102",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":901,
+    "Street":"Philomena Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Kyle",
+    "State":"TX",
+    "County":"Hays County",
+    "Zip":78640,
+    "Country":"US",
+    "Source":"Hays"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.699731,30.346305 ]
+    },
+    "properties": {
+    "License":408091,
+    "name":"Generations Child Development Centers 1",
+    "Address":"8203 Sam Rayburn Dr",
+    "VenPCSZ":"AUSTIN, TX  78753",
+    "capacity":"39",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":8203,
+    "Street":"Sam Rayburn Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78753,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.68975,30.514539 ]
+    },
+    "properties": {
+    "License":1673082,
+    "name":"Global Kids Preschool",
+    "Address":"4 Chisholm Trl",
+    "VenPCSZ":"ROUND ROCK, TX  78681",
+    "capacity":"51",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"range_interpolation",
+    "Number":4,
+    "Street":"Chisholm Trl",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78681,
+    "Country":"US",
+    "Source":"TIGER/Line® dataset from the US Census Bureau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.84258,30.475843 ]
+    },
+    "properties": {
+    "License":877325,
+    "name":"Goddard School",
+    "Address":"1905 El Salido Pkwy",
+    "VenPCSZ":"CEDAR PARK, TX  78613",
+    "capacity":"315",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1905,
+    "Street":"El Salido Pkwy",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Park",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78613,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.840344,30.558118 ]
+    },
+    "properties": {
+    "License":1612316,
+    "name":"Goddard School",
+    "Address":"1730 Union St",
+    "VenPCSZ":"LEANDER, TX  78641",
+    "capacity":"223",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1730,
+    "Street":"Union St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Leander",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78641,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.658614,30.418345 ]
+    },
+    "properties": {
+    "License":1600878,
+    "name":"Gods Kingdom Daycare 2",
+    "Address":"104 W Howard Ln",
+    "VenPCSZ":"AUSTIN, TX  78753",
+    "capacity":"46",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"range_interpolation",
+    "Number":104,
+    "Street":"W Howard Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78753,
+    "Country":"US",
+    "Source":"TIGER/Line® dataset from the US Census Bureau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.68402,29.88403 ]
+    },
+    "properties": {
+    "License":64741,
+    "name":"Grace Lutheran Preschool KNS",
+    "Address":"828 Fir Ln",
+    "VenPCSZ":"LOCKHART, TX  78644",
+    "capacity":"55",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"range_interpolation",
+    "Number":828,
+    "Street":"Fir Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Lockhart",
+    "State":"TX",
+    "County":"Caldwell County",
+    "Zip":78644,
+    "Country":"US",
+    "Source":"TIGER/Line® dataset from the US Census Bureau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.780441,30.210347 ]
+    },
+    "properties": {
+    "License":1658257,
+    "name":"Growing Imaginations Learning Center LLC",
+    "Address":"5410 S 1St St",
+    "VenPCSZ":"AUSTIN, TX  78745",
+    "capacity":"50",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":5410,
+    "Street":"S 1st St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78745,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.669611,30.530213 ]
+    },
+    "properties": {
+    "License":1532993,
+    "name":"Guiding Steps Montessori",
+    "Address":"1000 E Bowman Dr",
+    "VenPCSZ":"ROUND ROCK, TX  78664",
+    "capacity":"80",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1000,
+    "Street":"E Bowman Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78664,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.879113,30.234599 ]
+    },
+    "properties": {
+    "License":1668465,
+    "name":"Happy Bunnies",
+    "Address":"7212 Oak Meadow Dr",
+    "VenPCSZ":"AUSTIN, TX  78736",
+    "capacity":"95",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":7212,
+    "Street":"Oak Meadow Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78736,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.805899,30.205937 ]
+    },
+    "properties": {
+    "License":1384066,
+    "name":"Happy Hearts Bilingual Learning Center",
+    "Address":"6615 Manchaca Rd",
+    "VenPCSZ":"Austin, TX  78745",
+    "capacity":"69",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":6615,
+    "Street":"Manchaca Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78745,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.812408,30.174268 ]
+    },
+    "properties": {
+    "License":1706523,
+    "name":"Happy Hearts Bilingual Learning Center",
+    "Address":"1112 W Slaughter Ln",
+    "VenPCSZ":"AUSTIN, TX  78748",
+    "capacity":"89",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1112,
+    "Street":"W Slaughter Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78748,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.680394,30.305312 ]
+    },
+    "properties": {
+    "License":1203226,
+    "name":"Happy Kids Day Care",
+    "Address":"5709 Manor Rd",
+    "VenPCSZ":"Austin, TX  78723",
+    "capacity":"49",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":5709,
+    "Street":"Manor Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78723,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.827979,29.942831 ]
+    },
+    "properties": {
+    "License":1700370,
+    "name":"Hemphill EAC YMCA",
+    "Address":"3995 E Fm 150",
+    "VenPCSZ":"KYLE, TX  78640",
+    "capacity":"68",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":0.55,
+    "Accuracy Type":"nearest_rooftop_match",
+    "Number":3960,
+    "Street":"E Rr 150",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Kyle",
+    "State":"TX",
+    "County":"Hays County",
+    "Zip":78640,
+    "Country":"US",
+    "Source":"Hays"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.545742,30.544186 ]
+    },
+    "properties": {
+    "License":1551578,
+    "name":"Hippo Learning Station",
+    "Address":"104 Taylor St Unit B",
+    "VenPCSZ":"HUTTO, TX  78634",
+    "capacity":"84",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":104,
+    "Street":"Taylor St",
+    "Unit Type":"Unit",
+    "Unit Number":"B",
+    "City":"Hutto",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78634,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.785407,30.203108 ]
+    },
+    "properties": {
+    "License":1508294,
+    "name":"House of Little Angels LLC",
+    "Address":"735 Turtle Creek Blvd",
+    "VenPCSZ":"Austin, TX  78745",
+    "capacity":"105",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":735,
+    "Street":"Turtle Creek Blvd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78745,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.755164,30.197785 ]
+    },
+    "properties": {
+    "License":1700160,
+    "name":"Houston EAC YMCA",
+    "Address":"5409 Ponciana Dr",
+    "VenPCSZ":"AUSTIN, TX  78744",
+    "capacity":"68",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":5409,
+    "Street":"Ponciana Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78744,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.864118,29.9971 ]
+    },
+    "properties": {
+    "License":1700358,
+    "name":"IDEA Kyle EAC YMCA",
+    "Address":"640 Philomena Dr",
+    "VenPCSZ":"KYLE, TX  78640",
+    "capacity":"102",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":640,
+    "Street":"Philomena Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Kyle",
+    "State":"TX",
+    "County":"Hays County",
+    "Zip":78640,
+    "Country":"US",
+    "Source":"Hays"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.652817,30.38802 ]
+    },
+    "properties": {
+    "License":1694673,
+    "name":"IDEA Parmer Park YMCA",
+    "Address":"1438 East Yager Lane",
+    "VenPCSZ":"AUSTIN, TX  78753",
+    "capacity":"125",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1438,
+    "Street":"E Yager Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78753,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.621235,30.421843 ]
+    },
+    "properties": {
+    "License":1712543,
+    "name":"IDEA Pflugerville EAC YMCA",
+    "Address":"1901 E Wells Branch Pkwy",
+    "VenPCSZ":"PFLUGERVILLE, TX  78660",
+    "capacity":"136",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1901,
+    "Street":"E Wells Branch Pkwy",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Pflugerville",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78660,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.614092,30.431887 ]
+    },
+    "properties": {
+    "License":210333,
+    "name":"Immanuel Lutheran Day School",
+    "Address":"500 Immanuel Rd",
+    "VenPCSZ":"PFLUGERVILLE, TX  78660",
+    "capacity":"220",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":500,
+    "Street":"Immanuel Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Pflugerville",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78660,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.80467,30.530132 ]
+    },
+    "properties": {
+    "License":1700560,
+    "name":"Jupiter House Preschool",
+    "Address":"1602 Medical Pkwy",
+    "VenPCSZ":"CEDAR PARK, TX  78613",
+    "capacity":"171",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1602,
+    "Street":"Medical Pkwy",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Park",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78613,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.68789,30.457533 ]
+    },
+    "properties": {
+    "License":1631149,
+    "name":"KCE Champions LLC Jubilee-Wells Branch K-5",
+    "Address":"3711 Shoreline Dr",
+    "VenPCSZ":"AUSTIN, TX  78728",
+    "capacity":"70",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":3711,
+    "Street":"Shoreline Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78728,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7585,30.204295 ]
+    },
+    "properties": {
+    "License":1699743,
+    "name":"KIPP Austin South CCC EAC YMCA",
+    "Address":"5107 S Interstate 35",
+    "VenPCSZ":"AUSTIN, TX  78744",
+    "capacity":"22",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"range_interpolation",
+    "Number":5107,
+    "Street":"S I-35",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78744,
+    "Country":"US",
+    "Source":"TIGER/Line® dataset from the US Census Bureau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7585,30.204295 ]
+    },
+    "properties": {
+    "License":1700145,
+    "name":"KIPP Austin South EAC YMCA",
+    "Address":"5107 S Interstate 35",
+    "VenPCSZ":"AUSTIN, TX  78744",
+    "capacity":"85",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"range_interpolation",
+    "Number":5107,
+    "Street":"S I-35",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78744,
+    "Country":"US",
+    "Source":"TIGER/Line® dataset from the US Census Bureau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.768913,30.419562 ]
+    },
+    "properties": {
+    "License":405994,
+    "name":"Kathy Caraway YMCA",
+    "Address":"11104 Oak View Dr",
+    "VenPCSZ":"Austin, TX  78759",
+    "capacity":"159",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":11104,
+    "Street":"Oak View Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78759,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.85334,30.518599 ]
+    },
+    "properties": {
+    "License":1686559,
+    "name":"Kiddie Academy of Cedar Park West",
+    "Address":"1301 N Lakeline Blvd",
+    "VenPCSZ":"CEDAR PARK, TX  78613",
+    "capacity":"233",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1301,
+    "Street":"N Lakeline Blvd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Park",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78613,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.684577,30.524078 ]
+    },
+    "properties": {
+    "License":1518027,
+    "name":"Kiddie Kingdom",
+    "Address":"112 E Old Bowman Rd",
+    "VenPCSZ":"Round Rock, TX  78664",
+    "capacity":"49",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":112,
+    "Street":"E Old Bowman Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78664,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.669519,30.574218 ]
+    },
+    "properties": {
+    "License":1247426,
+    "name":"Kids R Kids",
+    "Address":"4341 Teravista Club Dr",
+    "VenPCSZ":"Round Rock, TX  78665",
+    "capacity":"283",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":4341,
+    "Street":"Teravista Club Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78665,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.772486,30.498893 ]
+    },
+    "properties": {
+    "License":1697184,
+    "name":"Kids R Kids 33",
+    "Address":"15111 Avery Ranch Blvd",
+    "VenPCSZ":"AUSTIN, TX  78717",
+    "capacity":"356",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":15111,
+    "Street":"Avery Ranch Blvd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78717,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.612744,30.507906 ]
+    },
+    "properties": {
+    "License":1176126,
+    "name":"Kids R Kids Of Round Rock",
+    "Address":"1455 Red Bud Ln",
+    "VenPCSZ":"Round Rock, TX  78664",
+    "capacity":"275",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1455,
+    "Street":"Red Bud Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78664,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.75869,30.443382 ]
+    },
+    "properties": {
+    "License":1329546,
+    "name":"Kidz R Special 2",
+    "Address":"7402 Potters Trl",
+    "VenPCSZ":"Austin, TX  78729",
+    "capacity":"12",
+    "Type":"Licensed Child-Care Home",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":7402,
+    "Street":"Potters Trl",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78729,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.778189,30.195884 ]
+    },
+    "properties": {
+    "License":853832,
+    "name":"KinderCare Learning Center",
+    "Address":"6434 S Congress Ave",
+    "VenPCSZ":"AUSTIN, TX  78745",
+    "capacity":"150",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":6434,
+    "Street":"S Congress Ave",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78745,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.689571,30.514585 ]
+    },
+    "properties": {
+    "License":1070406,
+    "name":"Kingdom Heights Christian School",
+    "Address":"14 Chisholm Trl",
+    "VenPCSZ":"Round Rock, TX  78681",
+    "capacity":"57",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"range_interpolation",
+    "Number":14,
+    "Street":"Chisholm Trl",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78681,
+    "Country":"US",
+    "Source":"TIGER/Line® dataset from the US Census Bureau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.878742,29.991517 ]
+    },
+    "properties": {
+    "License":1700362,
+    "name":"Kyle EAC YMCA",
+    "Address":"500 Blanco St",
+    "VenPCSZ":"KYLE, TX  78640",
+    "capacity":"85",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":500,
+    "Street":"Blanco St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Kyle",
+    "State":"TX",
+    "County":"Hays County",
+    "Zip":78640,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.845266,30.031203 ]
+    },
+    "properties": {
+    "License":1688602,
+    "name":"Kyles Bright Beginnings",
+    "Address":"221 Amberwood N",
+    "VenPCSZ":"KYLE, TX  78640",
+    "capacity":"212",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":221,
+    "Street":"Amberwood N",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Kyle",
+    "State":"TX",
+    "County":"Hays County",
+    "Zip":78640,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.607324,30.444306 ]
+    },
+    "properties": {
+    "License":1668058,
+    "name":"LIFE Kidz Academy",
+    "Address":"1006 Old Austin Hutto Rd",
+    "VenPCSZ":"PFLUGERVILLE, TX  78660",
+    "capacity":"100",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1006,
+    "Street":"Old Austin Hutto Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Pflugerville",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78660,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.827774,30.493733 ]
+    },
+    "properties": {
+    "License":502184,
+    "name":"La Petite Academy - Cypress Creek",
+    "Address":"805 Cypress Creek Rd",
+    "VenPCSZ":"CEDAR PARK, TX  78613",
+    "capacity":"160",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":805,
+    "Street":"Cypress Creek Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Park",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78613,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.833725,30.528331 ]
+    },
+    "properties": {
+    "License":232186,
+    "name":"La Petite Academy - North Bell",
+    "Address":"1609 N Bell Blvd",
+    "VenPCSZ":"CEDAR PARK, TX  78613",
+    "capacity":"154",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1609,
+    "Street":"N Bell Blvd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Park",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78613,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.755774,30.421757 ]
+    },
+    "properties": {
+    "License":404096,
+    "name":"Laurel Mountain YMCA",
+    "Address":"10111 D K Ranch Rd",
+    "VenPCSZ":"Austin, TX  78759",
+    "capacity":"110",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":0.6,
+    "Accuracy Type":"street_center",
+    "Number":null,
+    "Street":"Q Ranch Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78759,
+    "Country":"US",
+    "Source":"TIGER/Line® dataset from the US Census Bureau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.774403,30.515732 ]
+    },
+    "properties": {
+    "License":1691224,
+    "name":"LeafSpring School",
+    "Address":"11651 West Parmer Ln",
+    "VenPCSZ":"CEDAR PARK, TX  78613",
+    "capacity":"328",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":11651,
+    "Street":"W Parmer Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Park",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78613,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.756796,30.35242 ]
+    },
+    "properties": {
+    "License":849013,
+    "name":"Leaps n Bounds",
+    "Address":"7010 Village Center Dr",
+    "VenPCSZ":"AUSTIN, TX  78731",
+    "capacity":"211",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":7010,
+    "Street":"Village Center Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78731,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.919558,30.308104 ]
+    },
+    "properties": {
+    "License":1684227,
+    "name":"Learn and Laugh Preschool",
+    "Address":"11715 Fm 2244",
+    "VenPCSZ":"AUSTIN, TX  78738",
+    "capacity":"43",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":11715,
+    "Street":"Farm To Market Rd 2244th Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78738,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.68136,30.488635 ]
+    },
+    "properties": {
+    "License":1077706,
+    "name":"Learning Tree Day School",
+    "Address":"2106 Rawhide Dr",
+    "VenPCSZ":"Round Rock, TX  78681",
+    "capacity":"204",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2106,
+    "Street":"Rawhide Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78681,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.544681,30.533485 ]
+    },
+    "properties": {
+    "License":869522,
+    "name":"LifePointe Christian Academy",
+    "Address":"1451 Carl Stern Blvd",
+    "VenPCSZ":"HUTTO, TX  78634",
+    "capacity":"72",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":0.87,
+    "Accuracy Type":"rooftop",
+    "Number":1451,
+    "Street":"Carl Stern Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Hutto",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78634,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.824542,30.464917 ]
+    },
+    "properties": {
+    "License":1378726,
+    "name":"Little Acorn Academy LLC",
+    "Address":"3200 Hatch Rd",
+    "VenPCSZ":"Cedar Park, TX  78613",
+    "capacity":"145",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":3200,
+    "Street":"Hatch Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Park",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78613,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.73445,30.299233 ]
+    },
+    "properties": {
+    "License":1700258,
+    "name":"Little Angels EAC YMCA",
+    "Address":"55 N Interstate 35",
+    "VenPCSZ":"AUSTIN, TX  78702",
+    "capacity":"16",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":0.33,
+    "Accuracy Type":"nearest_rooftop_match",
+    "Number":101,
+    "Street":"W 35th St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78705,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.661449,30.450724 ]
+    },
+    "properties": {
+    "License":1685266,
+    "name":"Little Angels Learning Center",
+    "Address":"15635 Vision Dr Ste 108",
+    "VenPCSZ":"PFLUGERVILLE, TX  78660",
+    "capacity":"204",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":15635,
+    "Street":"Vision Dr",
+    "Unit Type":"Ste",
+    "Unit Number":"108",
+    "City":"Pflugerville",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78660,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.748244,30.199351 ]
+    },
+    "properties": {
+    "License":1707105,
+    "name":"Little Explorers Childcare",
+    "Address":"2313 Teri Rd",
+    "VenPCSZ":"AUSTIN, TX  78744",
+    "capacity":"52",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2313,
+    "Street":"Teri Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78744,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.677454,30.30336 ]
+    },
+    "properties": {
+    "License":182972,
+    "name":"Little Folks Nursery and Bilingual Day Care Center",
+    "Address":"5706 Reicher Dr",
+    "VenPCSZ":"AUSTIN, TX  78723",
+    "capacity":"168",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":5706,
+    "Street":"Reicher Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78723,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.684208,30.519745 ]
+    },
+    "properties": {
+    "License":1652204,
+    "name":"Little Learners Preschool",
+    "Address":"100 Northwest Dr",
+    "VenPCSZ":"ROUND ROCK, TX  78664",
+    "capacity":"82",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":100,
+    "Street":"Northwest Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78664,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.676977,30.502758 ]
+    },
+    "properties": {
+    "License":1670081,
+    "name":"Little Miracles Christian Preschool",
+    "Address":"750 S Mays St",
+    "VenPCSZ":"ROUND ROCK, TX  78664",
+    "capacity":"48",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":750,
+    "Street":"S Mays St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78664,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.666521,30.518509 ]
+    },
+    "properties": {
+    "License":1670092,
+    "name":"Little Miracles Christian Preschool II",
+    "Address":"1008 Provident Ln",
+    "VenPCSZ":"ROUND ROCK, TX  78664",
+    "capacity":"88",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1008,
+    "Street":"Provident Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78664,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.713286,30.385915 ]
+    },
+    "properties": {
+    "License":1289106,
+    "name":"Little Munchkins Learning Center",
+    "Address":"2020 Denton Dr",
+    "VenPCSZ":"Austin, TX  78758",
+    "capacity":"300",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2020,
+    "Street":"Denton Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78758,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.54209,30.540366 ]
+    },
+    "properties": {
+    "License":1699075,
+    "name":"Little Ones World",
+    "Address":"216 S Fm 1660",
+    "VenPCSZ":"HUTTO, TX  78634",
+    "capacity":"37",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":216,
+    "Street":"S FM 1660",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Hutto",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78634,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.659132,30.391454 ]
+    },
+    "properties": {
+    "License":1702172,
+    "name":"Little Rascals Daycare",
+    "Address":"1006 E Yager Ln",
+    "VenPCSZ":"AUSTIN, TX  78753",
+    "capacity":"60",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1006,
+    "Street":"E Yager Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78753,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.599537,30.252242 ]
+    },
+    "properties": {
+    "License":1595862,
+    "name":"Little Sprouts",
+    "Address":"12712 Fm 969",
+    "VenPCSZ":"AUSTIN, TX  78724",
+    "capacity":"70",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":12712,
+    "Street":"Farm To Market Rd 969th Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78724,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.075055,30.23033 ]
+    },
+    "properties": {
+    "License":1643644,
+    "name":"Little Tigers Learning Center",
+    "Address":"27979 Ranch Road 12",
+    "VenPCSZ":"DRIPPING SPRINGS, TX  78620",
+    "capacity":"41",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":0.7,
+    "Accuracy Type":"range_interpolation",
+    "Number":27979,
+    "Street":"N Ranch Rd 12",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Dripping Springs",
+    "State":"TX",
+    "County":"Hays County",
+    "Zip":78620,
+    "Country":"US",
+    "Source":"TIGER/Line® dataset from the US Census Bureau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.400286,30.362781 ]
+    },
+    "properties": {
+    "License":839379,
+    "name":"Mabrys Munchkins Learning Center",
+    "Address":"1512 N Avenue C",
+    "VenPCSZ":"ELGIN, TX  78621",
+    "capacity":"68",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1512,
+    "Street":"N Ave C",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Elgin",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78621,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.764861,30.247096 ]
+    },
+    "properties": {
+    "License":21007,
+    "name":"Mainspring at Live Oak",
+    "Address":"1100 W Live Oak St",
+    "VenPCSZ":"AUSTIN, TX  78704",
+    "capacity":"115",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1100,
+    "Street":"W Live Oak St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78704,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.550657,30.341359 ]
+    },
+    "properties": {
+    "License":840823,
+    "name":"Manor ISD Child Development Center",
+    "Address":"600 E Parsons St",
+    "VenPCSZ":"MANOR, TX  78653",
+    "capacity":"90",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":600,
+    "Street":"E Parsons St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Manor",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78653,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.714428,30.292598 ]
+    },
+    "properties": {
+    "License":1699699,
+    "name":"Maplewood EAC YMCA",
+    "Address":"3808 Maplewood Ave",
+    "VenPCSZ":"AUSTIN, TX  78722",
+    "capacity":"85",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":3808,
+    "Street":"Maplewood Ave",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78722,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.653844,30.441849 ]
+    },
+    "properties": {
+    "License":1697224,
+    "name":"My Big Brain Learning Academy",
+    "Address":"15302 Spring Hill Ln",
+    "VenPCSZ":"PFLUGERVILLE, TX  78660",
+    "capacity":"42",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":15302,
+    "Street":"Spring Hill Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Pflugerville",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78660,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.786769,30.227992 ]
+    },
+    "properties": {
+    "License":1223786,
+    "name":"Nanas Playhouse Learning Center",
+    "Address":"4406 Russell Dr",
+    "VenPCSZ":"AUSTIN, TX  78745",
+    "capacity":"35",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":4406,
+    "Street":"Russell Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78745,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.380312,30.3438 ]
+    },
+    "properties": {
+    "License":1694926,
+    "name":"New Beginnings Child Development Cntr. LLC",
+    "Address":"700 Bull Run",
+    "VenPCSZ":"ELGIN, TX  78621",
+    "capacity":"81",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":700,
+    "Street":"Bull Run Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Elgin",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78621,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.761769,30.23917 ]
+    },
+    "properties": {
+    "License":501645,
+    "name":"New Generation",
+    "Address":"2600 2606 First St S",
+    "VenPCSZ":"AUSTIN, TX  78704",
+    "capacity":"63",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":0.9,
+    "Accuracy Type":"rooftop",
+    "Number":2606,
+    "Street":"S 1st St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78704,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.693044,30.271857 ]
+    },
+    "properties": {
+    "License":1662781,
+    "name":"Nurturing Child Care Centers",
+    "Address":"1054 Springdale Rd Ste L",
+    "VenPCSZ":"AUSTIN, TX  78721",
+    "capacity":"63",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1054,
+    "Street":"Springdale Rd",
+    "Unit Type":"Ste",
+    "Unit Number":"L",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78721,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.707645,30.282197 ]
+    },
+    "properties": {
+    "License":1382606,
+    "name":"Open Door Preschool at M Station",
+    "Address":"2918 E Mlk Blvd",
+    "VenPCSZ":"Austin, TX  78702",
+    "capacity":"98",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2918,
+    "Street":"E Martin Luther King Jr Blvd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78702,
+    "Country":"US",
+    "Source":"City of Austin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.618022,30.452756 ]
+    },
+    "properties": {
+    "License":1634368,
+    "name":"PISD Brookhollow Elementary Extended Day Program",
+    "Address":"1200 N Railroad Ave",
+    "VenPCSZ":"PFLUGERVILLE, TX  78660",
+    "capacity":"130",
+    "Type":"Licensed Center - Before/After School Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1200,
+    "Street":"N Railroad Ave",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Pflugerville",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78660,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.655269,30.468688 ]
+    },
+    "properties": {
+    "License":1489566,
+    "name":"PISD Caldwell Elementary Extended Day Program",
+    "Address":"1718 Picadilly Dr",
+    "VenPCSZ":"ROUND ROCK, TX  78664",
+    "capacity":"130",
+    "Type":"Licensed Center - Before/After School Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1718,
+    "Street":"Picadilly Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78664,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.593608,30.496335 ]
+    },
+    "properties": {
+    "License":1583376,
+    "name":"PISD Dearing Elementary Extended Day Program",
+    "Address":"4301 Gattis School Rd",
+    "VenPCSZ":"ROUND ROCK, TX  78664",
+    "capacity":"131",
+    "Type":"Licensed Center - Before/After School Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":4301,
+    "Street":"Gattis School Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78664,
+    "Country":"US",
+    "Source":"City of Pflugerville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.690987,30.413831 ]
+    },
+    "properties": {
+    "License":1497746,
+    "name":"PISD Parmer Lane Elementary Extended Day Program",
+    "Address":"1806 W Parmer Ln",
+    "VenPCSZ":"AUSTIN, TX  78727",
+    "capacity":"108",
+    "Type":"Licensed Center - Before/After School Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1806,
+    "Street":"W Parmer Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78727,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.683203,30.380289 ]
+    },
+    "properties": {
+    "License":1249146,
+    "name":"Papa / Nanas Child Care",
+    "Address":"11301 Hornsby St",
+    "VenPCSZ":"Austin, TX  78753",
+    "capacity":"39",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":11301,
+    "Street":"Hornsby St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78753,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.673863,30.519165 ]
+    },
+    "properties": {
+    "License":1681544,
+    "name":"Pathways Child Development Center LLC",
+    "Address":"1100 Egger Ave",
+    "VenPCSZ":"ROUND ROCK, TX  78664",
+    "capacity":"45",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1100,
+    "Street":"Egger Ave",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78664,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.75387,30.170394 ]
+    },
+    "properties": {
+    "License":1699940,
+    "name":"Perez EAC YMCA",
+    "Address":"7500 S Pleasant Valley Rd",
+    "VenPCSZ":"AUSTIN, TX  78744",
+    "capacity":"85",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":7500,
+    "Street":"S Pleasant Valley Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78744,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.823461,30.039634 ]
+    },
+    "properties": {
+    "License":1700059,
+    "name":"Pfluger EAC YMCA",
+    "Address":"4951 Marsh Ln",
+    "VenPCSZ":"BUDA, TX  78610",
+    "capacity":"97",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":4951,
+    "Street":"Marsh Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Buda",
+    "State":"TX",
+    "County":"Hays County",
+    "Zip":78610,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.628891,30.441935 ]
+    },
+    "properties": {
+    "License":216030,
+    "name":"Pflugerville La Petite Academy",
+    "Address":"204 S 10Th St",
+    "VenPCSZ":"PFLUGERVILLE, TX  78660",
+    "capacity":"129",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":204,
+    "Street":"S 10th St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Pflugerville",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78660,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.70575,30.317743 ]
+    },
+    "properties": {
+    "License":1707161,
+    "name":"Playtime Learning Center",
+    "Address":"1023 Reinli St",
+    "VenPCSZ":"AUSTIN, TX  78723",
+    "capacity":"23",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1023,
+    "Street":"Reinli St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78723,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.830056,30.478969 ]
+    },
+    "properties": {
+    "License":897602,
+    "name":"Primrose School of Cedar Park West",
+    "Address":"2021 Little Elm Trl",
+    "VenPCSZ":"Cedar Park, TX  78613",
+    "capacity":"210",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2021,
+    "Street":"Little Elm Trl",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Park",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78613,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.862566,30.538066 ]
+    },
+    "properties": {
+    "License":1599261,
+    "name":"Primrose School of Crystal Falls",
+    "Address":"1781 Osage Dr",
+    "VenPCSZ":"LEANDER, TX  78641",
+    "capacity":"215",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1781,
+    "Street":"Osage Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Leander",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78641,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.70253,30.412586 ]
+    },
+    "properties": {
+    "License":517024,
+    "name":"Prodigy Child Development Center",
+    "Address":"2300 Cedar Bend Dr",
+    "VenPCSZ":"Austin, TX  78758",
+    "capacity":"168",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2300,
+    "Street":"Cedar Bend Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78758,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.701594,30.305464 ]
+    },
+    "properties": {
+    "License":1680052,
+    "name":"PromiseLand Learning Center",
+    "Address":"1504 E 51St St",
+    "VenPCSZ":"AUSTIN, TX  78723",
+    "capacity":"270",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1504,
+    "Street":"E 51st St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78723,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.82064,30.456271 ]
+    },
+    "properties": {
+    "License":409745,
+    "name":"Purple Sage YMCA",
+    "Address":"11601 El Salido",
+    "VenPCSZ":"Austin, TX  78750",
+    "capacity":"75",
+    "Type":"Licensed Center - Before/After School Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"range_interpolation",
+    "Number":11601,
+    "Street":"El Salido Pkwy",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78750,
+    "Country":"US",
+    "Source":"TIGER/Line® dataset from the US Census Bureau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.755658,30.205244 ]
+    },
+    "properties": {
+    "License":1704613,
+    "name":"Rainbow Scholars Academy",
+    "Address":"1700 Teri Rd",
+    "VenPCSZ":"AUSTIN, TX  78744",
+    "capacity":"39",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1700,
+    "Street":"Teri Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78744,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.622765,30.491735 ]
+    },
+    "properties": {
+    "License":1631886,
+    "name":"Raquel Smith",
+    "Address":"1005 Howell Terrace Pl",
+    "VenPCSZ":"ROUND ROCK, TX  78664",
+    "capacity":"12",
+    "Type":"Registered Child-Care Home",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1005,
+    "Street":"Howell Terrace Pl",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78664,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.85593,30.232195 ]
+    },
+    "properties": {
+    "License":1618103,
+    "name":"Reggio Emilia Multilingual Preschool Academy",
+    "Address":"5710 Mccarty Ln",
+    "VenPCSZ":"AUSTIN, TX  78749",
+    "capacity":"140",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":5710,
+    "Street":"Mc Carty Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78749,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.688522,30.330732 ]
+    },
+    "properties": {
+    "License":823102,
+    "name":"Rosies Day Care",
+    "Address":"7512 Cameron Rd",
+    "VenPCSZ":"Austin, TX  78752",
+    "capacity":"48",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":7512,
+    "Street":"Cameron Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78752,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.73871,30.495787 ]
+    },
+    "properties": {
+    "License":534765,
+    "name":"Round Rock ISD Child Development Center-Great Oaks",
+    "Address":"16455 S Great Oaks Dr",
+    "VenPCSZ":"ROUND ROCK, TX  78681",
+    "capacity":"63",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":0.8,
+    "Accuracy Type":"rooftop",
+    "Number":16455,
+    "Street":"Great Oaks Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78681,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.672221,30.495671 ]
+    },
+    "properties": {
+    "License":1556835,
+    "name":"Round Rock ISD Success Child Development Center",
+    "Address":"500 Gattis School Rd",
+    "VenPCSZ":"ROUND ROCK, TX  78664",
+    "capacity":"62",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":500,
+    "Street":"Gattis School Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78664,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.656731,30.493495 ]
+    },
+    "properties": {
+    "License":1657382,
+    "name":"Round Rock KinderCare",
+    "Address":"1900 S A W Grimes Blvd",
+    "VenPCSZ":"ROUND ROCK, TX  78664",
+    "capacity":"166",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1900,
+    "Street":"S Aw Grimes Blvd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78664,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.74007,30.341973 ]
+    },
+    "properties": {
+    "License":867843,
+    "name":"Sammys House Child Development Center",
+    "Address":"2415 Twin Oaks Dr",
+    "VenPCSZ":"Austin, TX  78757",
+    "capacity":"49",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2415,
+    "Street":"Twin Oaks Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78757,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.838293,30.01486 ]
+    },
+    "properties": {
+    "License":1700361,
+    "name":"Science Hall EAC YMCA",
+    "Address":"1510 Bebee Rd",
+    "VenPCSZ":"KYLE, TX  78640",
+    "capacity":"70",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1510,
+    "Street":"Bebee Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Kyle",
+    "State":"TX",
+    "County":"Hays County",
+    "Zip":78640,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.663225,30.284823 ]
+    },
+    "properties": {
+    "License":223025,
+    "name":"Seek and Say Enrichment Day Care",
+    "Address":"6123 Fm 969",
+    "VenPCSZ":"AUSTIN, TX  78724",
+    "capacity":"49",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":6123,
+    "Street":"Farm To Market Rd 969th Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78724,
+    "Country":"US",
+    "Source":"City of Austin"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.594434,30.103999 ]
+    },
+    "properties": {
+    "License":244917,
+    "name":"Sharon Clark",
+    "Address":"125 Meadow View Blvd",
+    "VenPCSZ":"Del Valle, TX  78617",
+    "capacity":"12",
+    "Type":"Registered Child-Care Home",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":125,
+    "Street":"Meadow View Blvd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Del Valle",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78617,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.63823,30.466343 ]
+    },
+    "properties": {
+    "License":1697673,
+    "name":"Shondas Kids",
+    "Address":"17323 Manish Dr",
+    "VenPCSZ":"PFLUGERVILLE, TX  78660",
+    "capacity":"12",
+    "Type":"Licensed Child-Care Home",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":17323,
+    "Street":"Manish Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Pflugerville",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78660,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.693854,30.458526 ]
+    },
+    "properties": {
+    "License":890713,
+    "name":"Shoreline Learning Center",
+    "Address":"15201 Burnet Rd",
+    "VenPCSZ":"AUSTIN, TX  78728",
+    "capacity":"253",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":15201,
+    "Street":"Burnet Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78728,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.67554,30.502076 ]
+    },
+    "properties": {
+    "License":850747,
+    "name":"Small World Preschool LLC",
+    "Address":"111 E Logan St",
+    "VenPCSZ":"ROUND ROCK, TX  78664",
+    "capacity":"63",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":111,
+    "Street":"E Logan St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78664,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.756441,30.439123 ]
+    },
+    "properties": {
+    "License":222640,
+    "name":"Stepping Stone School III",
+    "Address":"6616 Mcneil Dr",
+    "VenPCSZ":"AUSTIN, TX  78729",
+    "capacity":"248",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":6616,
+    "Street":"Mc Neil Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78729,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.793207,30.455533 ]
+    },
+    "properties": {
+    "License":401694,
+    "name":"Stepping Stone School IV",
+    "Address":"9914 Woodland Village Dr",
+    "VenPCSZ":"AUSTIN, TX  78750",
+    "capacity":"99",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":9914,
+    "Street":"Woodland Village Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78750,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.796882,30.454296 ]
+    },
+    "properties": {
+    "License":503943,
+    "name":"Stepping Stone School VI",
+    "Address":"12301 Hymeadow Dr",
+    "VenPCSZ":"AUSTIN, TX  78750",
+    "capacity":"225",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":12301,
+    "Street":"Hymeadow Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78750,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.750053,30.457486 ]
+    },
+    "properties": {
+    "License":819004,
+    "name":"Stepping Stone School XII",
+    "Address":"7700 W Parmer Ln",
+    "VenPCSZ":"AUSTIN, TX  78729",
+    "capacity":"240",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":7700,
+    "Street":"W Parmer Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78729,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.651391,30.53222 ]
+    },
+    "properties": {
+    "License":881208,
+    "name":"Stepping Stone School XV",
+    "Address":"2301 N A W Grimes Blvd",
+    "VenPCSZ":"ROUND ROCK, TX  78665",
+    "capacity":"325",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2301,
+    "Street":"N Aw Grimes Blvd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78665,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.719066,30.418394 ]
+    },
+    "properties": {
+    "License":1699734,
+    "name":"Summit EAC YMCA",
+    "Address":"12207 Brigadoon Ln",
+    "VenPCSZ":"AUSTIN, TX  78727",
+    "capacity":"119",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":12207,
+    "Street":"Brigadoon Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78727,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.783703,30.195104 ]
+    },
+    "properties": {
+    "License":893814,
+    "name":"Susys Day Care Center",
+    "Address":"308 W William Cannon Dr # B",
+    "VenPCSZ":"AUSTIN, TX  78745",
+    "capacity":"45",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":308,
+    "Street":"W William Cannon Dr",
+    "Unit Type":"#",
+    "Unit Number":"B",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78745,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.776854,30.204415 ]
+    },
+    "properties": {
+    "License":1663058,
+    "name":"Sweet Briar Child Development Center 1",
+    "Address":"205 Sandra St",
+    "VenPCSZ":"AUSTIN, TX  78745",
+    "capacity":"68",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":205,
+    "Street":"Sandra St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78745,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.735203,30.19963 ]
+    },
+    "properties": {
+    "License":1663343,
+    "name":"Sweet Briar Child Development Center 2",
+    "Address":"4600 Nuckols Crossing Rd",
+    "VenPCSZ":"AUSTIN, TX  78744",
+    "capacity":"34",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":4600,
+    "Street":"Nuckols Crossing Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78744,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.426134,30.110624 ]
+    },
+    "properties": {
+    "License":863455,
+    "name":"Sweetpea Learning Center",
+    "Address":"104 Union Chapel Rd",
+    "VenPCSZ":"Cedar Creek, TX  78612",
+    "capacity":"62",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":104,
+    "Street":"Union Chapel Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Creek",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78612,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.66492,30.550472 ]
+    },
+    "properties": {
+    "License":1628447,
+    "name":"TWINKLE TIME HOME CHILD CARE",
+    "Address":"3328 Perch Trl",
+    "VenPCSZ":"ROUND ROCK, TX  78665",
+    "capacity":"12",
+    "Type":"Licensed Child-Care Home",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":3328,
+    "Street":"Perch Trl",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78665,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.668958,30.449704 ]
+    },
+    "properties": {
+    "License":1473026,
+    "name":"Tanias Tots Learning Center",
+    "Address":"15400 Marsha St",
+    "VenPCSZ":"Austin, TX  78728",
+    "capacity":"35",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":15400,
+    "Street":"Marsha St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78728,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.777813,30.206917 ]
+    },
+    "properties": {
+    "License":947346,
+    "name":"Tender Memories Learning Center",
+    "Address":"308 W Stassney Ln",
+    "VenPCSZ":"Austin, TX  78745",
+    "capacity":"76",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":308,
+    "Street":"W Stassney Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78745,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.672676,30.323698 ]
+    },
+    "properties": {
+    "License":1558245,
+    "name":"Texas Preparatory School Austin",
+    "Address":"7540 Ed Bluestein Blvd",
+    "VenPCSZ":"AUSTIN, TX  78723",
+    "capacity":"170",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":7540,
+    "Street":"Ed Bluestein Blvd Sb",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78723,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.949688,29.887704 ]
+    },
+    "properties": {
+    "License":59795,
+    "name":"Texas State Child Development Center",
+    "Address":"102 Lueders",
+    "VenPCSZ":"San Marcos, TX  78666",
+    "capacity":"130",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":102,
+    "Street":"Lueders St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"San Marcos",
+    "State":"TX",
+    "County":"Hays County",
+    "Zip":78666,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.500135,30.350836 ]
+    },
+    "properties": {
+    "License":1652155,
+    "name":"The Busy Bee Preschool",
+    "Address":"11300 Us Highway 290 E Ste 320",
+    "VenPCSZ":"MANOR, TX  78653",
+    "capacity":"54",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"range_interpolation",
+    "Number":11300,
+    "Street":"US Hwy 290",
+    "Unit Type":"Ste",
+    "Unit Number":"320",
+    "City":"Manor",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78653,
+    "Country":"US",
+    "Source":"TIGER/Line® dataset from the US Census Bureau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.644538,30.46746 ]
+    },
+    "properties": {
+    "License":547557,
+    "name":"The Childrens Courtyard",
+    "Address":"1308 Picadilly Dr",
+    "VenPCSZ":"PFLUGERVILLE, TX  78660",
+    "capacity":"304",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1308,
+    "Street":"Picadilly Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Pflugerville",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78660,
+    "Country":"US",
+    "Source":"City of Pflugerville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.635212,30.42925 ]
+    },
+    "properties": {
+    "License":1637724,
+    "name":"The Goddard School",
+    "Address":"1040 E Wells Branch Pkwy",
+    "VenPCSZ":"PFLUGERVILLE, TX  78660",
+    "capacity":"160",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1040,
+    "Street":"E Wells Branch Pkwy",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Pflugerville",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78660,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.861904,30.125011 ]
+    },
+    "properties": {
+    "License":1542223,
+    "name":"The Sunshine Cottage Preschool / Development Cente",
+    "Address":"402 Lewis Ln",
+    "VenPCSZ":"BUDA, TX  78610",
+    "capacity":"117",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":402,
+    "Street":"Lewis Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Buda",
+    "State":"TX",
+    "County":"Hays County",
+    "Zip":78610,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.727506,30.354262 ]
+    },
+    "properties": {
+    "License":887258,
+    "name":"Tic Tac Toe Learning Center",
+    "Address":"2003 W Anderson Ln",
+    "VenPCSZ":"Austin, TX  78757",
+    "capacity":"100",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2003,
+    "Street":"W Anderson Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78757,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.791689,30.212949 ]
+    },
+    "properties": {
+    "License":1512548,
+    "name":"Tiny Feet Daycare 2",
+    "Address":"1408 W Stassney Ln",
+    "VenPCSZ":"Austin, TX  78745",
+    "capacity":"40",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1408,
+    "Street":"W Stassney Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78745,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.883392,29.991378 ]
+    },
+    "properties": {
+    "License":1700359,
+    "name":"Tobias International EAC YMCA",
+    "Address":"1005 E Fm 150",
+    "VenPCSZ":"KYLE, TX  78640",
+    "capacity":"102",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":0.9,
+    "Accuracy Type":"range_interpolation",
+    "Number":1005,
+    "Street":"W FM 150",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Kyle",
+    "State":"TX",
+    "County":"Hays County",
+    "Zip":78640,
+    "Country":"US",
+    "Source":"TIGER/Line® dataset from the US Census Bureau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.672243,30.357391 ]
+    },
+    "properties": {
+    "License":859022,
+    "name":"Todays Child Day Care",
+    "Address":"9908 Dessau Rd",
+    "VenPCSZ":"Austin, TX  78754",
+    "capacity":"47",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":0.9,
+    "Accuracy Type":"rooftop",
+    "Number":9908,
+    "Street":"Dessau Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78753,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.818843,30.064036 ]
+    },
+    "properties": {
+    "License":1700118,
+    "name":"Tom Green EAC YMCA",
+    "Address":"1301 Old Goforth Rd",
+    "VenPCSZ":"BUDA, TX  78610",
+    "capacity":"85",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1301,
+    "Street":"Old Goforth Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Buda",
+    "State":"TX",
+    "County":"Hays County",
+    "Zip":78610,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.746012,30.241285 ]
+    },
+    "properties": {
+    "License":1699735,
+    "name":"Travis Heights EAC YMCA",
+    "Address":"2010 Alameda Dr",
+    "VenPCSZ":"AUSTIN, TX  78704",
+    "capacity":"68",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2010,
+    "Street":"Alameda Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78704,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.353334,30.338508 ]
+    },
+    "properties": {
+    "License":539542,
+    "name":"Tree House Incorporated",
+    "Address":"989 Old Mcdade Rd",
+    "VenPCSZ":"Elgin, TX  78621",
+    "capacity":"135",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":989,
+    "Street":"Old Mcdade Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Elgin",
+    "State":"TX",
+    "County":"Bastrop County",
+    "Zip":78621,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.693557,30.516668 ]
+    },
+    "properties": {
+    "License":1646999,
+    "name":"Trillium Montessori",
+    "Address":"1000 Sam Bass Cir",
+    "VenPCSZ":"ROUND ROCK, TX  78681",
+    "capacity":"93",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1000,
+    "Street":"Sam Bass Cir",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78681,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.747575,30.44955 ]
+    },
+    "properties": {
+    "License":865861,
+    "name":"Tutor Time Child Care Learning Center",
+    "Address":"6801 Dallas Dr",
+    "VenPCSZ":"Austin, TX  78729",
+    "capacity":"170",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":6801,
+    "Street":"Dallas Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78729,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.813082,30.500236 ]
+    },
+    "properties": {
+    "License":230434,
+    "name":"Twin Lakes Child Development Center",
+    "Address":"1150 S Bell Blvd",
+    "VenPCSZ":"CEDAR PARK, TX  78613",
+    "capacity":"181",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1150,
+    "Street":"S Bell Blvd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Park",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78613,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.678219,30.303444 ]
+    },
+    "properties": {
+    "License":1686484,
+    "name":"Two Steps Ahead Learning Center",
+    "Address":"3028 Rogge Ln",
+    "VenPCSZ":"AUSTIN, TX  78723",
+    "capacity":"59",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":3028,
+    "Street":"Rogge Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78723,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.732825,30.280553 ]
+    },
+    "properties": {
+    "License":412108,
+    "name":"University of Texas Child Care Center",
+    "Address":"1925 San Jacinto Blvd",
+    "VenPCSZ":"AUSTIN, TX  78712",
+    "capacity":"188",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1925,
+    "Street":"San Jacinto Blvd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78712,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.686896,30.445247 ]
+    },
+    "properties": {
+    "License":402908,
+    "name":"Wells Branch YMCA",
+    "Address":"14650 Merriltown Rd",
+    "VenPCSZ":"AUSTIN, TX  78728",
+    "capacity":"150",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":14650,
+    "Street":"Merrilltown Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78728,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.692534,30.315938 ]
+    },
+    "properties": {
+    "License":212279,
+    "name":"Wesley School",
+    "Address":"6100 Berkman Dr",
+    "VenPCSZ":"Austin, TX  78723",
+    "capacity":"95",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":6100,
+    "Street":"Berkman Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78723,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.692053,30.408765 ]
+    },
+    "properties": {
+    "License":1621962,
+    "name":"Wholesome Generation",
+    "Address":"12251 Running Bird Ln",
+    "VenPCSZ":"AUSTIN, TX  78758",
+    "capacity":"76",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":12251,
+    "Street":"Running Bird Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78758,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.737578,30.318316 ]
+    },
+    "properties": {
+    "License":1558069,
+    "name":"Wonder Years Infant Center and Preschool",
+    "Address":"4804 Grover Ave",
+    "VenPCSZ":"AUSTIN, TX  78756",
+    "capacity":"62",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":4804,
+    "Street":"Grover Ave",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78756,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.687622,30.526132 ]
+    },
+    "properties": {
+    "License":232453,
+    "name":"YMCA Child Care Center",
+    "Address":"1812 N Mays St",
+    "VenPCSZ":"ROUND ROCK, TX  78664",
+    "capacity":"145",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1812,
+    "Street":"N Mays St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78664,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.688324,30.669992 ]
+    },
+    "properties": {
+    "License":1579679,
+    "name":"YMCA Frost Elementary",
+    "Address":"711 Lakeway Dr",
+    "VenPCSZ":"GEORGETOWN, TX  78628",
+    "capacity":"150",
+    "Type":"Licensed Center - Before/After School Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":711,
+    "Street":"Lakeway Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Georgetown",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78628,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.680344,30.456133 ]
+    },
+    "properties": {
+    "License":1634139,
+    "name":"YMCA Joe Lee Johnson Elementary",
+    "Address":"2800 Sauls Dr",
+    "VenPCSZ":"AUSTIN, TX  78728",
+    "capacity":"80",
+    "Type":"Licensed Center - Before/After School Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2800,
+    "Street":"Sauls Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78728,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.806618,30.452648 ]
+    },
+    "properties": {
+    "License":879616,
+    "name":"YMCA-Anderson Mill Elementary",
+    "Address":"10610 Salt Mill Holw",
+    "VenPCSZ":"AUSTIN, TX  78750",
+    "capacity":"100",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":10610,
+    "Street":"Salt Mill Holw",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78750,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.879781,30.579072 ]
+    },
+    "properties": {
+    "License":545434,
+    "name":"YMCA-Bagdad Elementary",
+    "Address":"800 Deercreek Ln",
+    "VenPCSZ":"LEANDER, TX  78641",
+    "capacity":"80",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":800,
+    "Street":"Deercreek Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Leander",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78641,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.623762,30.498681 ]
+    },
+    "properties": {
+    "License":559323,
+    "name":"YMCA-Blackland Prairie",
+    "Address":"2105 Via Sonoma Dr",
+    "VenPCSZ":"ROUND ROCK, TX  78665",
+    "capacity":"125",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":0.71,
+    "Accuracy Type":"nearest_rooftop_match",
+    "Number":2098,
+    "Street":"Via Sonoma Trl",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78665,
+    "Country":"US",
+    "Source":"Round Rock"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.659205,30.502119 ]
+    },
+    "properties": {
+    "License":901502,
+    "name":"YMCA-Callison Elementary",
+    "Address":"1750 Thompson Trl",
+    "VenPCSZ":"Round Rock, TX  78664",
+    "capacity":"150",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1750,
+    "Street":"Thompson Trl",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78664,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.805527,30.503516 ]
+    },
+    "properties": {
+    "License":559324,
+    "name":"YMCA-Cox Elementary",
+    "Address":"1001 Brushy Creek Rd",
+    "VenPCSZ":"Cedar Park, TX  78613",
+    "capacity":"125",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1001,
+    "Street":"Brushy Creek Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Park",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78613,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.697206,30.500449 ]
+    },
+    "properties": {
+    "License":402906,
+    "name":"YMCA-Deepwood",
+    "Address":"705 Saint Williams Ave",
+    "VenPCSZ":"ROUND ROCK, TX  78681",
+    "capacity":"75",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":705,
+    "Street":"St Williams Ave",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78681,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.852968,30.482545 ]
+    },
+    "properties": {
+    "License":841161,
+    "name":"YMCA-Deer Creek",
+    "Address":"2420 Zeppelin Dr",
+    "VenPCSZ":"Cedar Park, TX  78613",
+    "capacity":"125",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2420,
+    "Street":"Zeppelin Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Park",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78613,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.539315,30.550563 ]
+    },
+    "properties": {
+    "License":503149,
+    "name":"YMCA-Hutto Elementary",
+    "Address":"100 Mager Ln",
+    "VenPCSZ":"Hutto, TX  78634",
+    "capacity":"85",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":100,
+    "Street":"Mager Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Hutto",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78634,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.750001,30.444486 ]
+    },
+    "properties": {
+    "License":417949,
+    "name":"YMCA-Jollyville Elementary",
+    "Address":"6720 Corpus Christi Dr",
+    "VenPCSZ":"Austin, TX  78729",
+    "capacity":"102",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":6720,
+    "Street":"Corpus Christi Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78729,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.770911,30.453654 ]
+    },
+    "properties": {
+    "License":409743,
+    "name":"YMCA-Live Oak Elementary",
+    "Address":"8607 Anderson Mill Rd",
+    "VenPCSZ":"Austin, TX  78729",
+    "capacity":"100",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":8607,
+    "Street":"Anderson Mill Rd",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78729,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.558515,30.534808 ]
+    },
+    "properties": {
+    "License":823884,
+    "name":"YMCA-Nadine Johnson Elementary School",
+    "Address":"480 Carl Stern Dr",
+    "VenPCSZ":"HUTTO, TX  78634",
+    "capacity":"115",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":480,
+    "Street":"Carl Stern Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Hutto",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78634,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.883835,30.011042 ]
+    },
+    "properties": {
+    "License":864297,
+    "name":"YMCA-Negley Elementary Afterschool Site",
+    "Address":"5940 Mcnaughton",
+    "VenPCSZ":"Kyle, TX  78640",
+    "capacity":"125",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":5940,
+    "Street":"McNaughton",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Kyle",
+    "State":"TX",
+    "County":"Hays County",
+    "Zip":78640,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.704285,30.53197 ]
+    },
+    "properties": {
+    "License":409646,
+    "name":"YMCA-Old Town Elementary",
+    "Address":"2200 Chaparral Dr",
+    "VenPCSZ":"ROUND ROCK, TX  78681",
+    "capacity":"125",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":2200,
+    "Street":"Chaparral Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78681,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.764282,30.446672 ]
+    },
+    "properties": {
+    "License":248490,
+    "name":"YMCA-Pond Springs Elementary",
+    "Address":"7825 Elkhorn Mountain Trl",
+    "VenPCSZ":"AUSTIN, TX  78729",
+    "capacity":"125",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":7825,
+    "Street":"Elkhorn Mountain Trl",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78729,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.538925,30.513726 ]
+    },
+    "properties": {
+    "License":879621,
+    "name":"YMCA-Ray Elementary",
+    "Address":"225 Swindoll Ln",
+    "VenPCSZ":"HUTTO, TX  78634",
+    "capacity":"136",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":225,
+    "Street":"Swindoll Ln",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Hutto",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78634,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.817971,30.493615 ]
+    },
+    "properties": {
+    "License":1546507,
+    "name":"YMCA-Reed",
+    "Address":"1515 Little Elm Trl",
+    "VenPCSZ":"CEDAR PARK, TX  78613",
+    "capacity":"122",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1515,
+    "Street":"Little Elm Trl",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Cedar Park",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78613,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.792868,30.496975 ]
+    },
+    "properties": {
+    "License":851565,
+    "name":"YMCA-Rutledge",
+    "Address":"11501 Staked Plains Dr",
+    "VenPCSZ":"Austin, TX  78717",
+    "capacity":"255",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":11501,
+    "Street":"Staked Plains Dr",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78717,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.661447,30.55432 ]
+    },
+    "properties": {
+    "License":820475,
+    "name":"YMCA-Union Hill",
+    "Address":"1511 Gulf Way",
+    "VenPCSZ":"Round Rock, TX  78665",
+    "capacity":"150",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":1511,
+    "Street":"Gulf Way",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78665,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.595537,30.56632 ]
+    },
+    "properties": {
+    "License":1546409,
+    "name":"YMCA-Veterans Hill Elementary",
+    "Address":"555 Limmer Loop",
+    "VenPCSZ":"ROUND ROCK, TX  78665",
+    "capacity":"80",
+    "Type":"Licensed Center - School Age Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":555,
+    "Street":"Limmer Loop",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Round Rock",
+    "State":"TX",
+    "County":"Williamson County",
+    "Zip":78665,
+    "Country":"US",
+    "Source":"Capcog"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.769483,30.225612 ]
+    },
+    "properties": {
+    "License":1670841,
+    "name":"YMOK Daycare Austin LLC",
+    "Address":"510 Clarke St",
+    "VenPCSZ":"AUSTIN, TX  78745",
+    "capacity":"49",
+    "Type":"Licensed Center - Child Care Program",
+    "Accuracy Score":1,
+    "Accuracy Type":"rooftop",
+    "Number":510,
+    "Street":"Clarke St",
+    "Unit Type":"",
+    "Unit Number":"",
+    "City":"Austin",
+    "State":"TX",
+    "County":"Travis County",
+    "Zip":78745,
+    "Country":"US",
+    "Source":"Travis"
+    }
+  }
+]
+}
